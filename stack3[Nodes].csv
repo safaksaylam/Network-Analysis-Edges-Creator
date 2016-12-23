@@ -1,0 +1,951 @@
+id,label,timeset,url,category
+0,VB.net searching in current Website after a string,,/questions/41208025/vb-net-searching-in-current-website-after-a-string,html
+1,How to change the color of a table view cell dynamically,,/questions/41208023/how-to-change-the-color-of-a-table-view-cell-dynamically,ios
+2,auto populate the primary contact field with the logged in user,,/questions/41208022/auto-populate-the-primary-contact-field-with-the-logged-in-user,javascript
+3,Vue.js and masonry - different behavior on local and remote,,/questions/41208019/vue-js-and-masonry-different-behavior-on-local-and-remote,javascript
+4,How to Wordpress image insert in custom plugin database,,/questions/41208018/how-to-wordpress-image-insert-in-custom-plugin-database,php
+5,Django: How do I get my website/app online?,,/questions/41208017/django-how-do-i-get-my-website-app-online,django
+6,c# listview item is not activating,,/questions/41208014/c-sharp-listview-item-is-not-activating,c#
+7,HTML/CSS/JS/JQUERY: Make objects fixed even if the window is resized,,/questions/41208013/html-css-js-jquery-make-objects-fixed-even-if-the-window-is-resized,javascript
+8,Upickle: mixing raw JSON - with case classes,,/questions/41208012/upickle-mixing-raw-json-with-case-classes,scala
+9,Array of Picture boxes,,/questions/41208008/array-of-picture-boxes,arrays
+10,Why does ldoc not producing output and not going through all subdirectories?,,/questions/41208006/why-does-ldoc-not-producing-output-and-not-going-through-all-subdirectories,lua
+11,Receiving events in Pusher client,,/questions/41208003/receiving-events-in-pusher-client,python
+12,How can I export to a vsproject on my mac (C++)?,,/questions/41208002/how-can-i-export-to-a-vsproject-on-my-mac-c,c++
+13,moc-qt5 as pre-build command in codelite,,/questions/41208001/moc-qt5-as-pre-build-command-in-codelite,c++
+14,How to use HashMap to get the data from child of child in Firebase in android?,,/questions/41207998/how-to-use-hashmap-to-get-the-data-from-child-of-child-in-firebase-in-android,android
+15,Script to iterate through lines of alarm log file and execute some lines of code if alarm is active for more than one day,,/questions/41207997/script-to-iterate-through-lines-of-alarm-log-file-and-execute-some-lines-of-code,shell
+16,Java library to switch windows under Windows (windows automation)?,,/questions/41207996/java-library-to-switch-windows-under-windows-windows-automation,java
+17,How to Find number of weeks in a month using jquery,,/questions/41207991/how-to-find-number-of-weeks-in-a-month-using-jquery,javascript
+18,And of two consecutive Truth values in a List,,/questions/41207988/and-of-two-consecutive-truth-values-in-a-list,python
+19,TicTacToe Game in C++ using Classes. Turns between Human & Computer?,,/questions/41207983/tictactoe-game-in-c-using-classes-turns-between-human-computer,c++
+20,scrollTop jquery in RTL direction,,/questions/41207981/scrolltop-jquery-in-rtl-direction,javascript
+21,How to turn off printing result of python “sh” library,,/questions/41207979/how-to-turn-off-printing-result-of-python-sh-library,linux
+22,GPUImage libary setEGLContext null [duplicate],,/questions/41207975/gpuimage-libary-seteglcontext-null,android
+23,How to show a div for a while before second page load,,/questions/41207970/how-to-show-a-div-for-a-while-before-second-page-load,javascript
+24,How do I get the cURL responses for different pages?,,/questions/41207967/how-do-i-get-the-curl-responses-for-different-pages,python
+25,How to install Android SDK for unity?,,/questions/41207966/how-to-install-android-sdk-for-unity,android
+26,Make Java set threadSafe,,/questions/41207959/make-java-set-threadsafe,java
+27,how to compute gradient of a Gaussian Mixture Model in theano,,/questions/41207957/how-to-compute-gradient-of-a-gaussian-mixture-model-in-theano,python
+28,scrapy: no module named middleware,,/questions/41207956/scrapy-no-module-named-middleware,python
+29,Update UIApplicationShortcutItem from extension,,/questions/41207955/update-uiapplicationshortcutitem-from-extension,swift
+30,Torri FireBase Authentication EmberFire,,/questions/41207953/torri-firebase-authentication-emberfire,ember.js
+31,Swift Array in CoreData,,/questions/41207951/swift-array-in-coredata,arrays
+32,How can I send the multiple checkbox value in Ajax and show in different div?,,/questions/41207947/how-can-i-send-the-multiple-checkbox-value-in-ajax-and-show-in-different-div,jquery
+33,Foundation select menu width,,/questions/41207946/foundation-select-menu-width,css
+34,I want some reference on designing for rails app,,/questions/41207944/i-want-some-reference-on-designing-for-rails-app,html
+35,Error sending PHP - stream_socket_enable_crypto,,/questions/41207943/error-sending-php-stream-socket-enable-crypto,php
+36,MVC 5 asp.net Inside Foreach Each Sum Related Data from other table,,/questions/41207941/mvc-5-asp-net-inside-foreach-each-sum-related-data-from-other-table,c#
+37,Android's algorithm to determine default zoom-level?,,/questions/41207940/androids-algorithm-to-determine-default-zoom-level,android
+38,Android fragment manager [duplicate],,/questions/41207939/android-fragment-manager,java
+39,How to capture mouse event behind JButton?,,/questions/41207933/how-to-capture-mouse-event-behind-jbutton,java
+40,Bash progress bar when running commands from within a script,,/questions/41207932/bash-progress-bar-when-running-commands-from-within-a-script,linux
+41,Generate all possible paths from an initial position,,/questions/41207931/generate-all-possible-paths-from-an-initial-position,ocaml
+42,What is the popular structure for Network Programming in Rust?,,/questions/41207929/what-is-the-popular-structure-for-network-programming-in-rust,network-programming
+43,MySQL how to check for combinations,,/questions/41207926/mysql-how-to-check-for-combinations,php
+44,Passing Array of string o pl/sql function in java,,/questions/41207925/passing-array-of-string-o-pl-sql-function-in-java,java
+45,Convert CSS into html,,/questions/41207924/convert-css-into-html,html
+46,scikit learn decision tree export graphviz - wrong class names in the decision tree,,/questions/41207923/scikit-learn-decision-tree-export-graphviz-wrong-class-names-in-the-decision-t,scikit-learn
+47,Customizing drop down list with ajax,,/questions/41207920/customizing-drop-down-list-with-ajax,php
+48,sending ATcommand from SIM808(Blutooth) to another device that using ATcommand too,,/questions/41207919/sending-atcommand-from-sim808blutooth-to-another-device-that-using-atcommand-t,at-command
+49,LNK 2019 simple constructor [duplicate],,/questions/41207918/lnk-2019-simple-constructor,c++
+50,Adding custom string in java manifest at the end of 'Classpath' via maven pom.xml,,/questions/41207715/adding-custom-string-in-java-manifest-at-the-end-of-classpath-via-maven-pom-xm,maven
+51,Can't get ember engines running,,/questions/41207713/cant-get-ember-engines-running,javascript
+52,C: HTTP web server- where to find the web root,,/questions/41207712/c-http-web-server-where-to-find-the-web-root,html
+53,Download backgrounds from sexygoogle.com using python,,/questions/41207710/download-backgrounds-from-sexygoogle-com-using-python,python
+54,Pushing to heroku master error,,/questions/41207708/pushing-to-heroku-master-error,git
+55,How can you know the name/sequence of the bands of a GeoTIFF/TIFF file in Java?,,/questions/41207707/how-can-you-know-the-name-sequence-of-the-bands-of-a-geotiff-tiff-file-in-java,java
+56,Error on iPhone but not on the simulator,,/questions/41207706/error-on-iphone-but-not-on-the-simulator,swift
+57,How can I create clothes for a Morphable Character Model,,/questions/41207705/how-can-i-create-clothes-for-a-morphable-character-model,character
+58,Why does the x axis disappear when the graph very big,,/questions/41207700/why-does-the-x-axis-disappear-when-the-graph-very-big,java
+59,Recover Intellij settings and plugin data after VM crash,,/questions/41207698/recover-intellij-settings-and-plugin-data-after-vm-crash,java
+60,converting my code from cpp to python giving me wrong results,,/questions/41207697/converting-my-code-from-cpp-to-python-giving-me-wrong-results,python
+61,Linker issues with POCO library,,/questions/41207696/linker-issues-with-poco-library,multithreading
+62,as.linnet function causes to hang the machine,,/questions/41207694/as-linnet-function-causes-to-hang-the-machine,spatstat
+63,Monitor not showing anything after connecting android things flashed image in Rashberry Pi,,/questions/41207689/monitor-not-showing-anything-after-connecting-android-things-flashed-image-in-ra,android
+64,Angular2 - when changing route I get a systemJs error for load children route,,/questions/41207688/angular2-when-changing-route-i-get-a-systemjs-error-for-load-children-route,javascript
+65,Yii2 session array with pagination,,/questions/41207687/yii2-session-array-with-pagination,jquery
+66,Lazarus: fatal error when opening an “output” procedure in another procedure,,/questions/41207682/lazarus-fatal-error-when-opening-an-output-procedure-in-another-procedure,lazarus
+67,Excel - Something between match/substring/left/find,,/questions/41207681/excel-something-between-match-substring-left-find,excel
+68,FirebaseUser class not downloading / importing,,/questions/41207677/firebaseuser-class-not-downloading-importing,android
+69,how to select and deselect onitemclick gridview android,,/questions/41207676/how-to-select-and-deselect-onitemclick-gridview-android,android
+70,Android Wearable Device App Development,,/questions/41207675/android-wearable-device-app-development,android
+71,ASP.NET MVC 5 not seeing “{id}” route in controller,,/questions/41207674/asp-net-mvc-5-not-seeing-id-route-in-controller,asp.net
+72,How can i start minecraft directly-without launcher- from a batch file or from eclipse,,/questions/41207672/how-can-i-start-minecraft-directly-without-launcher-from-a-batch-file-or-from-e,java
+73,belongsTo relation in Spring,,/questions/41207671/belongsto-relation-in-spring,spring
+74,"first three colors apply to first three list items like var test Array = [red,green,blue,red,…] [on hold]",,/questions/41207668/first-three-colors-apply-to-first-three-list-items-like-var-test-array-red-gr,jquery
+75,add two arrays in rust,,/questions/41207666/add-two-arrays-in-rust,arrays
+76,Adding percentage symbol to all x axis list's elements,,/questions/41207665/adding-percentage-symbol-to-all-x-axis-lists-elements,python-3.x
+77,Get marker added by google map drawing,,/questions/41207664/get-marker-added-by-google-map-drawing,javascript
+78,Importing a video into python,,/questions/41207659/importing-a-video-into-python,python
+79,"Gogole Big Query - Loading File From GCS Failed with “Not Found”, but the file exists",,/questions/41207655/gogole-big-query-loading-file-from-gcs-failed-with-not-found-but-the-file-e,google-bigquery
+80,C++ Overloading Operator Errors [duplicate],,/questions/41207653/c-overloading-operator-errors,c++
+81,why this jquery image slider not working with laravel @extends('layouts.app') and @section('content'),,/questions/41207650/why-this-jquery-image-slider-not-working-with-laravel-extendslayouts-app-an,javascript
+82,SQLAlchemy: 2 x One-to-One Relationship declaration,,/questions/41207647/sqlalchemy-2-x-one-to-one-relationship-declaration,python
+83,What is based Facebook PIXEL on?,,/questions/41207644/what-is-based-facebook-pixel-on,facebook
+84,Data Structure and Algorithms java,,/questions/41207643/data-structure-and-algorithms-java,java
+85,id.style or document.getElementById('id').style [duplicate],,/questions/41207642/id-style-or-document-getelementbyidid-style,javascript
+86,What's the correct way of defining style attributes in Quill Parchment,,/questions/41207637/whats-the-correct-way-of-defining-style-attributes-in-quill-parchment,quill
+87,how to return from async to normal execution in typescript,,/questions/41207636/how-to-return-from-async-to-normal-execution-in-typescript,asynchronous
+88,Matplotlib how to center a 2D image at origin on XY surface in 3D plot?,,/questions/41207634/matplotlib-how-to-center-a-2d-image-at-origin-on-xy-surface-in-3d-plot,python
+89,The difference between claimed return type and the actual one,,/questions/41207633/the-difference-between-claimed-return-type-and-the-actual-one,c++
+90,i am unable findthe app_package and app_activity in MobileCompatibityType while coding in eclipse for appium.This is for testing the native app,,/questions/41207632/i-am-unable-findthe-app-package-and-app-activity-in-mobilecompatibitytype-while,android
+91,List comprehension with instances python [on hold],,/questions/41207630/list-comprehension-with-instances-python,python
+92,Getting Mysql $Row and query,,/questions/41207629/getting-mysql-row-and-query,php
+93,Codeigniter - How VIEW can get data definded and can edit from Controller and defind Meta,,/questions/41207628/codeigniter-how-view-can-get-data-definded-and-can-edit-from-controller-and-de,php
+94,from tensorflow.python.util import nest,,/questions/41207915/from-tensorflow-python-util-import-nest,python-2.7
+95,Get names and types of a Python module's attributes,,/questions/41207624/get-names-and-types-of-a-python-modules-attributes,python
+96,How to make same iOS Swift App with only some differences in the code and assets with scalable and clean mode,,/questions/41207622/how-to-make-same-ios-swift-app-with-only-some-differences-in-the-code-and-assets,ios
+97,Angular JS 2: array.push not working,,/questions/41207620/angular-js-2-array-push-not-working,angular2
+98,Nodes of linked list,,/questions/41207619/nodes-of-linked-list,java
+99,Having trouble connecting MongoDB with Leaflet using Node.js,,/questions/41207334/having-trouble-connecting-mongodb-with-leaflet-using-node-js,javascript
+100,Why can't I equate array pointer to address reference of array but can equate to pointer of address reference of array?,,/questions/41207914/why-cant-i-equate-array-pointer-to-address-reference-of-array-but-can-equate-to,c++
+101,How to convert an audio file like mp3 to an mo3 file?,,/questions/41207912/how-to-convert-an-audio-file-like-mp3-to-an-mo3-file,audio
+102,How to add value into input type date Javascript?,,/questions/41207909/how-to-add-value-into-input-type-date-javascript,javascript
+103,JavaScript - Search pattern in string,,/questions/41207903/javascript-search-pattern-in-string,javascript
+104,“Uncaught TypeError: Cannot read property 'clone' of undefined” when adding recurring events to database,,/questions/41207618/uncaught-typeerror-cannot-read-property-clone-of-undefined-when-adding-recu,javascript
+105,ScrollTo() in Javascript scrolls all down,,/questions/41207617/scrollto-in-javascript-scrolls-all-down,javascript
+106,SQL Server 2005 - Cross-Database View Performance,,/questions/41207332/sql-server-2005-cross-database-view-performance,sql-server
+107,Why react highlight my second <select> option while the specified value is empty?,,/questions/41207329/why-react-highlight-my-second-select-option-while-the-specified-value-is-empty,reactjs
+108,Is it Possible that to pass Byte Array image from Database to SSRS Report in c# windows application,,/questions/41207328/is-it-possible-that-to-pass-byte-array-image-from-database-to-ssrs-report-in-c-s,c#
+109,Kivy Popup dynamically change height,,/questions/41207900/kivy-popup-dynamically-change-height,python-3.x
+110,how to return a filepath and use it in another method?,,/questions/41207897/how-to-return-a-filepath-and-use-it-in-another-method,java
+111,Is there a way to get all available action_types?,,/questions/41207896/is-there-a-way-to-get-all-available-action-types,facebook
+112,How can I use a local mdf file on another computer?,,/questions/41207327/how-can-i-use-a-local-mdf-file-on-another-computer,asp.net
+113,DB connection is not closed after request ends in a NancyFx application,,/questions/41207324/db-connection-is-not-closed-after-request-ends-in-a-nancyfx-application,database-connection
+114,In table view Checkmark de select from same button is it possible?,,/questions/41207322/in-table-view-checkmark-de-select-from-same-button-is-it-possible,swift
+115,Spark: Join within UDF or map function,,/questions/41207895/spark-join-within-udf-or-map-function,apache-spark
+116,Python unit test fails despite meeting requirement,,/questions/41207894/python-unit-test-fails-despite-meeting-requirement,python
+117,I want http request using already connected port using C,,/questions/41207893/i-want-http-request-using-already-connected-port-using-c,c
+118,Trying to scrape kickasstorrents with simple html dom,,/questions/41207891/trying-to-scrape-kickasstorrents-with-simple-html-dom,php
+119,How to apply my search on files with different extension in batch,,/questions/41207818/how-to-apply-my-search-on-files-with-different-extension-in-batch,batch-file
+120,How to use Firebase cloud messaging to push notification using asp.net mvc,,/questions/41207321/how-to-use-firebase-cloud-messaging-to-push-notification-using-asp-net-mvc,asp.net-mvc
+121,hide and show a ui nav bar button,,/questions/41207320/hide-and-show-a-ui-nav-bar-button,ios
+122,No respose from application web server,,/questions/41207889/no-respose-from-application-web-server,oracle
+123,gulp-sass remeins silent on certain errors (invalid terms),,/questions/41207888/gulp-sass-remeins-silent-on-certain-errors-invalid-terms,error-handling
+124,JavaScript Flow On Assistance,,/questions/41207887/javascript-flow-on-assistance,javascript
+125,Python list element replacement [duplicate],,/questions/41207815/python-list-element-replacement,python-2.7
+126,Angular2 Mvc5 sample application add component in inner folder,,/questions/41207814/angular2-mvc5-sample-application-add-component-in-inner-folder,angularjs
+127,How to verify Mockito interaction with the view that happen on new thread other than the one which is running the test case?,,/questions/41207812/how-to-verify-mockito-interaction-with-the-view-that-happen-on-new-thread-other,android
+128,what modelling language should I use for python 3 and C#.Net 6.0? [on hold],,/questions/41207811/what-modelling-language-should-i-use-for-python-3-and-c-net-6-0,c#
+129,Multiple Linear Regression handle NA,,/questions/41207318/multiple-linear-regression-handle-na,r
+130,Can ngOnDestroy happen before ngAfterContentInit?,,/questions/41207317/can-ngondestroy-happen-before-ngaftercontentinit,angular2
+131,java.lang.NoSuchMethodError in netty-socketio server,,/questions/41207315/java-lang-nosuchmethoderror-in-netty-socketio-server,java
+132,How can i solve the the following error?,,/questions/41207313/how-can-i-solve-the-the-following-error,java
+133,How to join output of models in Laravel?,,/questions/41207886/how-to-join-output-of-models-in-laravel,laravel
+134,Using .into() when type inference is impossible,,/questions/41207885/using-into-when-type-inference-is-impossible,rust
+135,"Scroll View Is not working in my Android Devide,",,/questions/41207884/scroll-view-is-not-working-in-my-android-devide,android
+136,sequelizejs / associations / returning custom join table column for included models,,/questions/41207883/sequelizejs-associations-returning-custom-join-table-column-for-included-mod,node.js
+137,Authenticate to Azure Function from within App,,/questions/41207881/authenticate-to-azure-function-from-within-app,c#
+138,coupled pendulum with spring,,/questions/41207809/coupled-pendulum-with-spring,python
+139,How is react faster than Angular 1.x,,/questions/41207806/how-is-react-faster-than-angular-1-x,angularjs
+140,Html template not properly working with angularJS 2,,/questions/41207804/html-template-not-properly-working-with-angularjs-2,javascript
+141,How to determine rowspan depending on number of child columns?,,/questions/41207310/how-to-determine-rowspan-depending-on-number-of-child-columns,php
+142,Prevent woocommerce from calling maps api,,/questions/41207309/prevent-woocommerce-from-calling-maps-api,google-maps
+143,Ionic Resizable textbox like in Google Sheet,,/questions/41207308/ionic-resizable-textbox-like-in-google-sheet,angularjs
+144,Mutable reference to a tuple as input parameter,,/questions/41207306/mutable-reference-to-a-tuple-as-input-parameter,rust
+145,E/EGL_emulation: tid 2633: eglSurfaceAttrib(1165): error 0x3009 (EGL_BAD_MATCH),,/questions/41207879/e-egl-emulation-tid-2633-eglsurfaceattrib1165-error-0x3009-egl-bad-match,android
+146,How to use Linux shell variable with sequence number?,,/questions/41207878/how-to-use-linux-shell-variable-with-sequence-number,linux
+147,maven copy-resource plugin with mvn clean install not work,,/questions/41207801/maven-copy-resource-plugin-with-mvn-clean-install-not-work,java
+148,Java split collection into smaller parts of same size for a general base type,,/questions/41207799/java-split-collection-into-smaller-parts-of-same-size-for-a-general-base-type,java
+149,Node.js server doesn't resfresh my index.html,,/questions/41207302/node-js-server-doesnt-resfresh-my-index-html,javascript
+150,RN react-native opens editor while running,,/questions/41207298/rn-react-native-opens-editor-while-running,react-native
+151,How do i do something each hour like increment a variable in python,,/questions/41207297/how-do-i-do-something-each-hour-like-increment-a-variable-in-python,python-2.7
+152,"I want to develop a webbrowser like this software,Is threre any solutions about it?",,/questions/41207294/i-want-to-develop-a-webbrowser-like-this-software-is-threre-any-solutions-about,c#
+153,“The use statement with non-compound name…” [duplicate],,/questions/41207107/the-use-statement-with-non-compound-name,php
+154,Mandatory update for apps in windows store,,/questions/41207877/mandatory-update-for-apps-in-windows-store,windows-store-apps
+155,gulp.lastrun returns a value only after the done() function is called,,/questions/41207876/gulp-lastrun-returns-a-value-only-after-the-done-function-is-called,gulp
+156,0/1 knapsack algorithm using greedy and backtracking,,/questions/41207873/0-1-knapsack-algorithm-using-greedy-and-backtracking,python
+157,One database per client or all clients in one database?,,/questions/41207871/one-database-per-client-or-all-clients-in-one-database,.net
+158,INSERT OR IGNORE in SQLAlchemy,,/questions/41207798/insert-or-ignore-in-sqlalchemy,python
+159,How to link between two controllers and two views in HTML/erb,,/questions/41207796/how-to-link-between-two-controllers-and-two-views-in-html-erb,html
+160,how to call WakefulBroadcastReceiver,,/questions/41207794/how-to-call-wakefulbroadcastreceiver,java
+161,Simulating a key press linux,,/questions/41207793/simulating-a-key-press-linux,linux
+162,Return to data listing after inputting data,,/questions/41207792/return-to-data-listing-after-inputting-data,android
+163,Can these components style be created in inno setup?,,/questions/41207292/can-these-components-style-be-created-in-inno-setup,styles
+164,Get values from multiple input fields generated by #each in meteor and insert them in collection,,/questions/41207290/get-values-from-multiple-input-fields-generated-by-each-in-meteor-and-insert-th,javascript
+165,Django website loads with empty root urls.py file,,/questions/41207289/django-website-loads-with-empty-root-urls-py-file,django
+166,both document.body and document.getElementsByTagName(“BODY”).item(0); return entire document,,/questions/41207106/both-document-body-and-document-getelementsbytagnamebody-item0-return-ent,javascript
+167,Sample DotNetActivity in Microsoft Azure,,/questions/41207103/sample-dotnetactivity-in-microsoft-azure,azure
+168,is it possible to change color of png image in svg element by css or javascript?,,/questions/41207097/is-it-possible-to-change-color-of-png-image-in-svg-element-by-css-or-javascript,javascript
+169,mac umount deletes folder that filesystem is mounted to,,/questions/41207869/mac-umount-deletes-folder-that-filesystem-is-mounted-to,bash
+170,What is the structure of the object Cursor?,,/questions/41207867/what-is-the-structure-of-the-object-cursor,android
+171,How to override Gson default DateTypeAdapter?,,/questions/41207787/how-to-override-gson-default-datetypeadapter,java
+172,OpenSCManager returns invalid handle when called from .NET V4,,/questions/41207786/openscmanager-returns-invalid-handle-when-called-from-net-v4,vb.net
+173,How to have a secure API with symfony backend and WSSE auth & angular front end?,,/questions/41207785/how-to-have-a-secure-api-with-symfony-backend-and-wsse-auth-angular-front-end,angularjs
+174,Xamarin Android | UI shows up blank in device,,/questions/41207285/xamarin-android-ui-shows-up-blank-in-device,visual-studio
+175,white space below footer - Cant remove,,/questions/41207284/white-space-below-footer-cant-remove,css
+176,Django 1.10 redirect view not working,,/questions/41207283/django-1-10-redirect-view-not-working,python
+177,SNS subscription attributes don't return in ruby,,/questions/41207096/sns-subscription-attributes-dont-return-in-ruby,ruby
+178,Kibana show no results for geohash aggregation,,/questions/41207095/kibana-show-no-results-for-geohash-aggregation,elasticsearch
+179,Getting the phone number of nearby place,,/questions/41207093/getting-the-phone-number-of-nearby-place,android
+180,MediaStore.EXTRA_OUTPUT always contains null in Lanscape mode,,/questions/41207091/mediastore-extra-output-always-contains-null-in-lanscape-mode,android
+181,python - py-expression-eval - Passing a numpy ndarray,,/questions/41207865/python-py-expression-eval-passing-a-numpy-ndarray,python
+182,How to delete a file automatically after it has been run?,,/questions/41207864/how-to-delete-a-file-automatically-after-it-has-been-run,sorting
+183,Gradle throw app:mergedebugresources exception,,/questions/41207861/gradle-throw-appmergedebugresources-exception,android
+184,Aeson: FromJSON with nested encoded json,,/questions/41207781/aeson-fromjson-with-nested-encoded-json,haskell
+185,What is causing this “cannot be interpreted as an integer” error?,,/questions/41207779/what-is-causing-this-cannot-be-interpreted-as-an-integer-error,python
+186,How do I make a bitmap header as 1bytes / 1pixel?,,/questions/41207280/how-do-i-make-a-bitmap-header-as-1bytes-1pixel,c++
+187,Preventing click event navigating back to recyclerview android,,/questions/41207277/preventing-click-event-navigating-back-to-recyclerview-android,android
+188,How does session_regenerate_id() work internally?,,/questions/41207273/how-does-session-regenerate-id-work-internally,php
+189,How should I pass a large amount of Redux actions from a container to presentational component?,,/questions/41207086/how-should-i-pass-a-large-amount-of-redux-actions-from-a-container-to-presentati,reactjs
+190,App crashes when accessing database or when accessing fragment instances,,/questions/41207085/app-crashes-when-accessing-database-or-when-accessing-fragment-instances,android
+191,Match part of text inside of tag,,/questions/41207078/match-part-of-text-inside-of-tag,javascript
+192,Node express JSON-Schema multiple fields validation,,/questions/41207860/node-express-json-schema-multiple-fields-validation,javascript
+193,How to stop RelativeLayout from changing its height automatically?,,/questions/41207859/how-to-stop-relativelayout-from-changing-its-height-automatically,android
+194,"Find path in a dict of edges, python",,/questions/41207776/find-path-in-a-dict-of-edges-python,python
+195,C++ how do I create a tuple of N T's from an array of T?,,/questions/41207774/c-how-do-i-create-a-tuple-of-n-ts-from-an-array-of-t,c++
+196,glsl&opengl: named uniform blocks,,/questions/41207272/glslopengl-named-uniform-blocks,opengl
+197,Show a Modal Window while a db query is taking place,,/questions/41207271/show-a-modal-window-while-a-db-query-is-taking-place,javascript
+198,Hot to implemet notification direct reply in Ionic2,,/questions/41207270/hot-to-implemet-notification-direct-reply-in-ionic2,push-notification
+199,Program not executing completely and skipping statements [duplicate],,/questions/41207076/program-not-executing-completely-and-skipping-statements,c
+200,How launch game when user press “start game” button on telegram bot?,,/questions/41207073/how-launch-game-when-user-press-start-game-button-on-telegram-bot,telegram-bot
+201,Capturing GET request params in Node.js,,/questions/41207072/capturing-get-request-params-in-node-js,node.js
+202,How to add a numerical value for a char in Java,,/questions/41207858/how-to-add-a-numerical-value-for-a-char-in-java,java
+203,How to read from a file to a map,,/questions/41207855/how-to-read-from-a-file-to-a-map,c++11
+204,fail2ban banning but not really,,/questions/41207852/fail2ban-banning-but-not-really,apache
+205,OS X Python quit unexpectedly when multiprocessing,,/questions/41207850/os-x-python-quit-unexpectedly-when-multiprocessing,python
+206,Button to open another activity,,/questions/41207772/button-to-open-another-activity,android
+207,How to store an HTTP request into a collection on a Node / Meteor server?,,/questions/41207771/how-to-store-an-http-request-into-a-collection-on-a-node-meteor-server,javascript
+208,forgot password in codeigniter with sending email,,/questions/41207769/forgot-password-in-codeigniter-with-sending-email,php
+209,Phongap Build 'App Not Installed' Error on Android,,/questions/41207268/phongap-build-app-not-installed-error-on-android,android
+210,REST - Updating partial data,,/questions/41207267/rest-updating-partial-data,rest
+211,How to properly store additional info per form field and retrieve it with iTextSharp,,/questions/41207266/how-to-properly-store-additional-info-per-form-field-and-retrieve-it-with-itexts,c#
+212,Displaying a list of paths as a graphical tree,,/questions/41207071/displaying-a-list-of-paths-as-a-graphical-tree,python
+213,On button click send Ajax call and get value from aspx.cs(code behind) to aspx page and display it in input field in the same page,,/questions/41207847/on-button-click-send-ajax-call-and-get-value-from-aspx-cscode-behind-to-aspx-p,javascript
+214,Benefits Of Using Interfaces or Abstract Classes On Solo Projects,,/questions/41207845/benefits-of-using-interfaces-or-abstract-classes-on-solo-projects,java
+215,using discrete and continuous obserbed variables with discrete hidden node for a DBN (HMM),,/questions/41207844/using-discrete-and-continuous-obserbed-variables-with-discrete-hidden-node-for-a,matlab
+216,Notice: Trying to get property of non-object in C:\Users\admin\Desktop\xampp\htdocs\ict\connect.php on line 19 0 results,,/questions/41207768/notice-trying-to-get-property-of-non-object-in-c-users-admin-desktop-xampp-htd,php
+217,Configuring strong parameters for dynamic keys,,/questions/41207766/configuring-strong-parameters-for-dynamic-keys,ruby-on-rails
+218,Where Dell buys it's screens for monitors and how they configure them?,,/questions/41207763/where-dell-buys-its-screens-for-monitors-and-how-they-configure-them,configuration
+219,Algorithm - minimum diameter spanning tree,,/questions/41207264/algorithm-minimum-diameter-spanning-tree,algorithm
+220,to use self-defined deleter in shared_ptr,,/questions/41207262/to-use-self-defined-deleter-in-shared-ptr,c++
+221,how to make a pair combination per each line,,/questions/41207261/how-to-make-a-pair-combination-per-each-line,python
+222,Adding Revenuehits pop under script to angularjs website,,/questions/41207260/adding-revenuehits-pop-under-script-to-angularjs-website,angularjs
+223,How does Google catch me?,,/questions/41207070/how-does-google-catch-me,osx
+224,Read DateTime value in correct format with JQuery (passed from controller to ajax) [duplicate],,/questions/41207069/read-datetime-value-in-correct-format-with-jquery-passed-from-controller-to-aja,c#
+225,Array of vectors,,/questions/41207068/array-of-vectors,c++
+226,Decimal hour shows 4 min 60 seconds not 5 minutes,,/questions/41207067/decimal-hour-shows-4-min-60-seconds-not-5-minutes,swift
+227,Loop Does not Executing and object is sent before by server that is after the loop,,/questions/41207064/loop-does-not-executing-and-object-is-sent-before-by-server-that-is-after-the-lo,java
+228,"Facebook currentAccessToken return nil , but FBSDKLoginButton show logout",,/questions/41206778/facebook-currentaccesstoken-return-nil-but-fbsdkloginbutton-show-logout,objective-c
+229,Find invalid images in a huge collection,,/questions/41207841/find-invalid-images-in-a-huge-collection,python
+230,Angular2 & MAMP integration,,/questions/41207839/angular2-mamp-integration,php
+231,HTML Canvas: Animation Delay,,/questions/41207837/html-canvas-animation-delay,javascript
+232,Error in xBlog on sitecore 8.2 with Solr 6.1,,/questions/41207833/error-in-xblog-on-sitecore-8-2-with-solr-6-1,solr
+233,ffmpeg: Batch convert different video files to .mp4 and respectively hardcode SRT subtitles on them,,/questions/41207832/ffmpeg-batch-convert-different-video-files-to-mp4-and-respectively-hardcode-sr,linux
+234,Custom Directives in AngularJS,,/questions/41207760/custom-directives-in-angularjs,javascript
+235,[Android][App]Error:(5) No resource identifier found for attribute 'shortcutId' in package 'android',,/questions/41207755/androidapperror5-no-resource-identifier-found-for-attribute-shortcutid,java
+236,"knockout binding is not working, how to fix?",,/questions/41207754/knockout-binding-is-not-working-how-to-fix,javascript
+237,no schema has been selected to create in … error,,/questions/41207259/no-schema-has-been-selected-to-create-in-error,python
+238,Where do I put the onTouchListener method in an android project?,,/questions/41207258/where-do-i-put-the-ontouchlistener-method-in-an-android-project,java
+239,3 summations in 1 constraints on CPLEX,,/questions/41207257/3-summations-in-1-constraints-on-cplex,cplex
+240,Spring-Boot-Starter-Parent in combination with “property-placeholder”,,/questions/41207063/spring-boot-starter-parent-in-combination-with-property-placeholder,spring-boot
+241,Tabs not visible but navigation on swipe works in TabLayout,,/questions/41207061/tabs-not-visible-but-navigation-on-swipe-works-in-tablayout,android
+242,How to display filefield in the grid cell in ExtJS,,/questions/41206777/how-to-display-filefield-in-the-grid-cell-in-extjs,extjs
+243,Excel VBA - if weekday of file created date matches cell value?,,/questions/41206775/excel-vba-if-weekday-of-file-created-date-matches-cell-value,excel
+244,error building project with phonegap build,,/questions/41206774/error-building-project-with-phonegap-build,android
+245,PHP MySQL- Insert into database error,,/questions/41207831/php-mysql-insert-into-database-error,php
+246,Show activity indicator from not active controller,,/questions/41207828/show-activity-indicator-from-not-active-controller,swift
+247,How to merge face-only mesh with generic head mesh?,,/questions/41207827/how-to-merge-face-only-mesh-with-generic-head-mesh,c++
+248,How to show row names and dendrogram in similar side using heatmap() in R?,,/questions/41207822/how-to-show-row-names-and-dendrogram-in-similar-side-using-heatmap-in-r,r
+249,What is happening in this code? Pacman Game(processing),,/questions/41207819/what-is-happening-in-this-code-pacman-gameprocessing,processing
+250,DFS to print all permutations of a string in python,,/questions/41206999/dfs-to-print-all-permutations-of-a-string-in-python,python
+251,Maxima CAS - substitution,,/questions/41207239/maxima-cas-substitution,maxima
+252,How to filter Select option to ALL,,/questions/41207753/how-to-filter-select-option-to-all,php
+253,How to check exact text in list a using Jquery?,,/questions/41207750/how-to-check-exact-text-in-list-a-using-jquery,jquery
+254,Create subdomain on local windows server,,/questions/41207749/create-subdomain-on-local-windows-server,windows
+255,How can I use python > 2.6.6 with spark on BigInsights on cloud Enterprise clusters?,,/questions/41206889/how-can-i-use-python-2-6-6-with-spark-on-biginsights-on-cloud-enterprise-clust,apache-spark
+256,three.js how to make bone looked on target?,,/questions/41207255/three-js-how-to-make-bone-looked-on-target,three.js
+257,Modal Image Bootstrap Just Can Show One Image,,/questions/41207254/modal-image-bootstrap-just-can-show-one-image,javascript
+258,When I rotate model-view matrix should my light position preserve and only the model will rotate?,,/questions/41207253/when-i-rotate-model-view-matrix-should-my-light-position-preserve-and-only-the-m,opengl
+259,File Migration from Parse after Database Migration,,/questions/41207251/file-migration-from-parse-after-database-migration,parse.com
+260,How to get a KClass of Array?,,/questions/41207060/how-to-get-a-kclass-of-array,reflection
+261,Is it mandatory to use Redux with React-Native?,,/questions/41206773/is-it-mandatory-to-use-redux-with-react-native,react-native
+262,Remove mock tests,,/questions/41206766/remove-mock-tests,python
+263,How to achieve cpu-throttling in docker swarm mode: docker service create,,/questions/41206763/how-to-achieve-cpu-throttling-in-docker-swarm-mode-docker-service-create,docker
+264,Android Contact Picker [multiple hp number and how to display in EditText],,/questions/41206760/android-contact-picker-multiple-hp-number-and-how-to-display-in-edittext,android
+265,VB.Net How to rotate a rectangle by mouse click and drag,,/questions/41206997/vb-net-how-to-rotate-a-rectangle-by-mouse-click-and-drag,vb.net
+266,Using <custom-header-component/> in the template of component breaking all the Test-Cases?,,/questions/41206993/using-custom-header-component-in-the-template-of-component-breaking-all-the-t,angular2
+267,merging javascript get with css div,,/questions/41206989/merging-javascript-get-with-css-div,javascript
+268,JavaScript / HTML5 code to convert any video format to mp4 format and upload to storage server so that it can be later played on any client,,/questions/41206987/javascript-html5-code-to-convert-any-video-format-to-mp4-format-and-upload-to,javascript
+269,docker tomcat directory not found?,,/questions/41207237/docker-tomcat-directory-not-found,docker
+270,onchange function not getting triggered in custom wordpress plugin,,/questions/41207233/onchange-function-not-getting-triggered-in-custom-wordpress-plugin,php
+271,SOAP and REST webservice in single application,,/questions/41207747/soap-and-rest-webservice-in-single-application,web-services
+272,Container Varnish for Container Tomcat,,/questions/41207746/container-varnish-for-container-tomcat,tomcat
+273,split hibernate entities across tables by ID,,/questions/41207745/split-hibernate-entities-across-tables-by-id,java
+274,Is there a Github webhook event for when a Project you've Forked gets Updated?,,/questions/41206887/is-there-a-github-webhook-event-for-when-a-project-youve-forked-gets-updated,git
+275,How to assign to values to column in pandas dataframe based on columns in other dataframe?,,/questions/41207249/how-to-assign-to-values-to-column-in-pandas-dataframe-based-on-columns-in-other,python
+276,Print out to file using Grep,,/questions/41207241/print-out-to-file-using-grep,python
+277,Efficient way to iterate over Gray code change positions,,/questions/41207240/efficient-way-to-iterate-over-gray-code-change-positions,algorithm
+278,multiple markers in maps activity,,/questions/41207058/multiple-markers-in-maps-activity,android
+279,URL routing in CodeIgniter- chat system in ajax,,/questions/41207057/url-routing-in-codeigniter-chat-system-in-ajax,routes
+280,2d char array initialization in c,,/questions/41207055/2d-char-array-initialization-in-c,c
+281,How to trigger AutoMapper,,/questions/41207054/how-to-trigger-automapper,c#
+282,Materializecss: fixed footer in sidenav,,/questions/41206759/materializecss-fixed-footer-in-sidenav,materializecss
+283,The multi-part identifier “inserted.id_ahs” could not be bound,,/questions/41206757/the-multi-part-identifier-inserted-id-ahs-could-not-be-bound,sql
+284,HOGDetector/DetectMultiScale throws IndexOutOfRangeException,,/questions/41206756/hogdetector-detectmultiscale-throws-indexoutofrangeexception,c#
+285,How to set up redirect after signout with Firebase in Ionic?,,/questions/41206671/how-to-set-up-redirect-after-signout-with-firebase-in-ionic,javascript
+286,How Do I Randomly Spawn GameObjects on the right that move to the left when spawned?,,/questions/41206986/how-do-i-randomly-spawn-gameobjects-on-the-right-that-move-to-the-left-when-spaw,c#
+287,Visual Studio 2015 Azure ADFS,,/questions/41206983/visual-studio-2015-azure-adfs,azure
+288,How to access and change an HTML control's value in an ASP.NET MVC action without returning to the view?,,/questions/41207232/how-to-access-and-change-an-html-controls-value-in-an-asp-net-mvc-action-withou,c#
+289,If statement to execute different queries,,/questions/41207229/if-statement-to-execute-different-queries,mysql
+290,SECRET_KEY_BASE config vars set too late - Can't start Rails app on Heroku,,/questions/41207228/secret-key-base-config-vars-set-too-late-cant-start-rails-app-on-heroku,ruby-on-rails
+291,A valid query syntax for OrientDB returns no results (without errors),,/questions/41207737/a-valid-query-syntax-for-orientdb-returns-no-results-without-errors,orientdb
+292,Checking monitor: must be configured to display at least 256 colors. Actual unknown,,/questions/41207736/checking-monitor-must-be-configured-to-display-at-least-256-colors-actual-unkn,linux
+293,How to Sort HTML Table with 1st column STATIC & Sorting with specific 1 column?,,/questions/41207735/how-to-sort-html-table-with-1st-column-static-sorting-with-specific-1-column,html
+294,Unable to retrieve location using 'LocationManager.NETWORK_PROVIDER' even when WiFi is enabled,,/questions/41206885/unable-to-retrieve-location-using-locationmanager-network-provider-even-when-w,java
+295,emgucv performance issue with video playback,,/questions/41206881/emgucv-performance-issue-with-video-playback,c#
+296,Hide checkbox based on condition in classic asp,,/questions/41206880/hide-checkbox-based-on-condition-in-classic-asp,vbscript
+297,Why does LoadLibrary mozglue.dll failed?,,/questions/41207049/why-does-loadlibrary-mozglue-dll-failed,c++
+298,Azure mobile service authentication works in web page not in Cordova app?,,/questions/41207047/azure-mobile-service-authentication-works-in-web-page-not-in-cordova-app,angularjs
+299,Rand a value different than,,/questions/41206755/rand-a-value-different-than,c#
+300,Can't add new project to collection in TFS2015,,/questions/41206752/cant-add-new-project-to-collection-in-tfs2015,tfs
+301,Android WebView adding Uploading Download Copy and Paste and Cookie Manager,,/questions/41206749/android-webview-adding-uploading-download-copy-and-paste-and-cookie-manager,android
+302,golang: garbage collection of tree structure,,/questions/41206744/golang-garbage-collection-of-tree-structure,recursion
+303,Cannot create new database table in Visual Studio 2015,,/questions/41206665/cannot-create-new-database-table-in-visual-studio-2015,sql-server
+304,NullReferenceException in UI Text component [duplicate],,/questions/41206660/nullreferenceexception-in-ui-text-component,c#
+305,Reset seed for each foreign key field,,/questions/41206659/reset-seed-for-each-foreign-key-field,sql
+306,How to write real cron job in wordpress?,,/questions/41206651/how-to-write-real-cron-job-in-wordpress,php
+307,"Trouble building custom scrollbar - jumpy movement, scroll off page, etc",,/questions/41206982/trouble-building-custom-scrollbar-jumpy-movement-scroll-off-page-etc,javascript
+308,Import large csv-file into Drupal 7,,/questions/41206981/import-large-csv-file-into-drupal-7,csv
+309,how to call separate logic for diff file name in spark,,/questions/41206979/how-to-call-separate-logic-for-diff-file-name-in-spark,scala
+310,Android use .so file got error: java.lang.UnsatisfiedLinkError,,/questions/41207226/android-use-so-file-got-error-java-lang-unsatisfiedlinkerror,android
+311,ASP.NET MVC : View stored image as byte[] from Db,,/questions/41207225/asp-net-mvc-view-stored-image-as-byte-from-db,c#
+312,assign person to seats,,/questions/41207733/assign-person-to-seats,php
+313,Not showing selected item from listview in the next listview(Sub Menu),,/questions/41207732/not-showing-selected-item-from-listview-in-the-next-listviewsub-menu,android
+314,Deleting a folder with files in Laravel,,/questions/41207731/deleting-a-folder-with-files-in-laravel,php
+315,How to uninstall twisted in kali 2016.2?,,/questions/41207728/how-to-uninstall-twisted-in-kali-2016-2,python
+316,Problems with the Scanner class in java [duplicate],,/questions/41206878/problems-with-the-scanner-class-in-java,java
+317,Akka Streams flow to handle paginated results doesn't complete,,/questions/41206877/akka-streams-flow-to-handle-paginated-results-doesnt-complete,scala
+318,Need to enable location for getting location from network provider?,,/questions/41206875/need-to-enable-location-for-getting-location-from-network-provider,android
+319,Eclipse WebEditor plugin customization,,/questions/41207046/eclipse-webeditor-plugin-customization,java
+320,textview not showing in recyclerview item,,/questions/41207043/textview-not-showing-in-recyclerview-item,java
+321,POM file is failing with http://cwiki.apache.org/confluence/display/MAVEN/UnresolvableModelException,,/questions/41207042/pom-file-is-failing-with-http-cwiki-apache-org-confluence-display-maven-unreso,java
+322,Xcode storyboard Emoji & Symbols display incorrectly,,/questions/41206741/xcode-storyboard-emoji-symbols-display-incorrectly,ios
+323,List set in onActivityResult with data not sticking,,/questions/41206737/list-set-in-onactivityresult-with-data-not-sticking,java
+324,Using Elixir Plug.conn.assigns in multiple modules,,/questions/41206736/using-elixir-plug-conn-assigns-in-multiple-modules,elixir
+325,Sendgrid: Upload an attachment once for multiple emails?,,/questions/41206650/sendgrid-upload-an-attachment-once-for-multiple-emails,email
+326,How to solve Xamarin forms Amazon AWSSDK error in iOS while linker is enabled?,,/questions/41206649/how-to-solve-xamarin-forms-amazon-awssdk-error-in-ios-while-linker-is-enabled,amazon-s3
+327,How to remove links between cells in Excel?,,/questions/41206647/how-to-remove-links-between-cells-in-excel,excel-2010
+328,Scroll to div after page load,,/questions/41206646/scroll-to-div-after-page-load,javascript
+329,Is there any Application other than the in built VBA editor for Excel to write VBA code?,,/questions/41206976/is-there-any-application-other-than-the-in-built-vba-editor-for-excel-to-write-v,excel
+330,"Developing responsive website, independent of device resolution",,/questions/41207218/developing-responsive-website-independent-of-device-resolution,css
+331,Dynamicaly create tablel based on the column value,,/questions/41207217/dynamicaly-create-tablel-based-on-the-column-value,php
+332,how can i renew certbot/letscrypt certificate with same keys?,,/questions/41207216/how-can-i-renew-certbot-letscrypt-certificate-with-same-keys,android
+333,Call JS method from Razor form submit,,/questions/41207215/call-js-method-from-razor-form-submit,javascript
+334,How to set arc width and arc height in Roundborder,,/questions/41207727/how-to-set-arc-width-and-arc-height-in-roundborder,codenameone
+335,my own function in constraint check,,/questions/41207726/my-own-function-in-constraint-check,sql-server
+336,How would I stop something that was started by an app for itself without stopping the app?,,/questions/41207720/how-would-i-stop-something-that-was-started-by-an-app-for-itself-without-stoppin,android
+337,How to extract map coordinates from json and assign to variable,,/questions/41206874/how-to-extract-map-coordinates-from-json-and-assign-to-variable,json
+338,Why am i getting a String in laravel method when i am actually passing a array,,/questions/41206871/why-am-i-getting-a-string-in-laravel-method-when-i-am-actually-passing-a-array,php
+339,Async task android onPostExecute working like get() but asynchronous,,/questions/41206864/async-task-android-onpostexecute-working-like-get-but-asynchronous,android
+340,atomic increment and return counter,,/questions/41206861/atomic-increment-and-return-counter,c++
+341,Symfony gedmo tree + translatable,,/questions/41207038/symfony-gedmo-tree-translatable,php
+342,Using REST in Spring web development,,/questions/41207037/using-rest-in-spring-web-development,java
+343,Replacing varying length text over multiple lines in Vim,,/questions/41207034/replacing-varying-length-text-over-multiple-lines-in-vim,vim
+344,The method of Android SimpleDateFormat.format may give an error result,,/questions/41207031/the-method-of-android-simpledateformat-format-may-give-an-error-result,android
+345,How to update master branch..?,,/questions/41206735/how-to-update-master-branch,git
+346,How we can define kangaroo Transaction and Joey Transaction in simple manner? [on hold],,/questions/41206734/how-we-can-define-kangaroo-transaction-and-joey-transaction-in-simple-manner,mobile
+347,How to save large files in JavaScript that require client-side processing,,/questions/41206733/how-to-save-large-files-in-javascript-that-require-client-side-processing,javascript
+348,Spring form: use select (drop down menu) to choose whole java Object,,/questions/41206732/spring-form-use-select-drop-down-menu-to-choose-whole-java-object,java
+349,pagination limit and offset is not working in codeigniter,,/questions/41206644/pagination-limit-and-offset-is-not-working-in-codeigniter,php
+350,Javascript - Math.random in a for loop,,/questions/41206642/javascript-math-random-in-a-for-loop,javascript
+351,can I save the streaming video in the webpage?,,/questions/41206641/can-i-save-the-streaming-video-in-the-webpage,javascript
+352,How to loop over a proc in SAS?,,/questions/41206639/how-to-loop-over-a-proc-in-sas,sas
+353,Bootstrap Modal not closing in Safari,,/questions/41206637/bootstrap-modal-not-closing-in-safari,django
+354,Page speed insights API key in PHP?,,/questions/41206974/page-speed-insights-api-key-in-php,php
+355,IQKeyboardManager conflicting with DownPicker,,/questions/41206973/iqkeyboardmanager-conflicting-with-downpicker,ios
+356,Event loop vs Call back function in node.js,,/questions/41206970/event-loop-vs-call-back-function-in-node-js,node.js
+357,exploring the different ways a number can be expressed as a sum of integer powers of 2 using each power no more than twice? [on hold],,/questions/41206968/exploring-the-different-ways-a-number-can-be-expressed-as-a-sum-of-integer-power,java
+358,Cannot start docker daemon on Arch Linux (4.8.13-1-ARCH),,/questions/41207212/cannot-start-docker-daemon-on-arch-linux-4-8-13-1-arch,docker
+359,Twilio Trial SMS 'from' number different from the assigned number,,/questions/41207211/twilio-trial-sms-from-number-different-from-the-assigned-number,twilio
+360,Theme Color Changing in Xcode,,/questions/41207719/theme-color-changing-in-xcode,ios
+361,How does linux find drivers?,,/questions/41207718/how-does-linux-find-drivers,linux
+362,"throwing an exception in security.yml, because found unexpected ':',",,/questions/41207717/throwing-an-exception-in-security-yml-because-found-unexpected,php
+363,Beautiful Soup in Jython - manual install python module,,/questions/41206856/beautiful-soup-in-jython-manual-install-python-module,python
+364,How the server determines which client sent the message in TCP socket programming,,/questions/41206855/how-the-server-determines-which-client-sent-the-message-in-tcp-socket-programmin,c
+365,How to import python packages,,/questions/41206852/how-to-import-python-packages,python-2.7
+366,"If function return true, then execute a command in if condition",,/questions/41207030/if-function-return-true-then-execute-a-command-in-if-condition,javascript
+367,How make luabind work in ubuntu?,,/questions/41207028/how-make-luabind-work-in-ubuntu,c++
+368,What is the standard programming language used for solving linear programming problems [on hold],,/questions/41207024/what-is-the-standard-programming-language-used-for-solving-linear-programming-pr,matlab
+369,user_hometown permission is not working while facebook login in android,,/questions/41207023/user-hometown-permission-is-not-working-while-facebook-login-in-android,android
+370,How to measure size of MongoDB's query results at database or driver level?,,/questions/41207016/how-to-measure-size-of-mongodbs-query-results-at-database-or-driver-level,mongodb
+371,Shark Machine Learning library: undefined reference to `cblas_ddot',,/questions/41206731/shark-machine-learning-library-undefined-reference-to-cblas-ddot,c++
+372,how to optimize for concurrent requests in a data aggregator service?,,/questions/41206730/how-to-optimize-for-concurrent-requests-in-a-data-aggregator-service,java
+373,How to run tape tests in a node/express route?,,/questions/41206728/how-to-run-tape-tests-in-a-node-express-route,node.js-tape
+374,Is there any way that I can store image to folder and path to database using jquery and signalR,,/questions/41206726/is-there-any-way-that-i-can-store-image-to-folder-and-path-to-database-using-jqu,jquery
+375,No Output in JTextField,,/questions/41206636/no-output-in-jtextfield,java
+376,Transparent TextBox goes white when typing,,/questions/41206635/transparent-textbox-goes-white-when-typing,c#
+377,Too Many connections error in MySQL but not many users are logged,,/questions/41206632/too-many-connections-error-in-mysql-but-not-many-users-are-logged,mysql
+378,java 8 - store method in HashMap and get return value from method in map,,/questions/41206630/java-8-store-method-in-hashmap-and-get-return-value-from-method-in-map,java
+379,Automating 3rd party software using CMD,,/questions/41206965/automating-3rd-party-software-using-cmd,windows
+380,Generating unique positive integer numbers and adding them to AVL Tree,,/questions/41206964/generating-unique-positive-integer-numbers-and-adding-them-to-avl-tree,java
+381,MongoDB C# Query: Filter + Aggregation + Checking if value is true/false,,/questions/41207208/mongodb-c-sharp-query-filter-aggregation-checking-if-value-is-true-false,c#
+382,How to link Libb64 libraries at compiling?,,/questions/41207207/how-to-link-libb64-libraries-at-compiling,c
+383,Python - Is there a “rank list” or should I implement one,,/questions/41207202/python-is-there-a-rank-list-or-should-i-implement-one,python
+384,How can I update pip in PyCharm when I have two versions of python?,,/questions/41206850/how-can-i-update-pip-in-pycharm-when-i-have-two-versions-of-python,python
+385,"java 8 - declare method to use in map, and pass the value to the method later on",,/questions/41206848/java-8-declare-method-to-use-in-map-and-pass-the-value-to-the-method-later-on,lambda
+386,Disable reloading of rows when Up scrolling in UITableView,,/questions/41206847/disable-reloading-of-rows-when-up-scrolling-in-uitableview,ios
+387,How to plot a vector as a matrix?,,/questions/41207015/how-to-plot-a-vector-as-a-matrix,matlab
+388,How can I set index while converting dictionary to dataframe?,,/questions/41207014/how-can-i-set-index-while-converting-dictionary-to-dataframe,python
+389,Stored Procedure - Search Parameter across multiple columns,,/questions/41207013/stored-procedure-search-parameter-across-multiple-columns,sql-server
+390,ES6 Destructuring dates,,/questions/41206725/es6-destructuring-dates,javascript
+391,SimpleXML get tags sequence,,/questions/41206724/simplexml-get-tags-sequence,java
+392,Chaining of jQuery animate functions not working properly,,/questions/41206723/chaining-of-jquery-animate-functions-not-working-properly,javascript
+393,Python boundary tag and \& symbol not finding a matchin my string,,/questions/41206625/python-boundary-tag-and-symbol-not-finding-a-matchin-my-string,python
+394,Metal on iOS: `newCommandQueueWithMaxCommandBufferCount` not working,,/questions/41206620/metal-on-ios-newcommandqueuewithmaxcommandbuffercount-not-working,ios
+395,Ionic app with ThreeJS does not work,,/questions/41206963/ionic-app-with-threejs-does-not-work,javascript
+396,Cut part of XML shape,,/questions/41207201/cut-part-of-xml-shape,java
+397,Date type data not returning correct value in java 8,,/questions/41207200/date-type-data-not-returning-correct-value-in-java-8,sql-server-2008
+398,"Setting up the Scalable, Fault tolerant Kafka Cluster on AWS autoscale Group",,/questions/41206846/setting-up-the-scalable-fault-tolerant-kafka-cluster-on-aws-autoscale-group,amazon-web-services
+399,Making a dynamic Website: setting a scroll range to make background picture fixed,,/questions/41206843/making-a-dynamic-website-setting-a-scroll-range-to-make-background-picture-fixe,javascript
+400,Visual Odometry global Pose estimation Monocular 2D-2D,,/questions/41207009/visual-odometry-global-pose-estimation-monocular-2d-2d,c++
+401,Methods of gesture 1D recognition using smartphone gyroscope sensors,,/questions/41207008/methods-of-gesture-1d-recognition-using-smartphone-gyroscope-sensors,signal-processing
+402,Create HTML tables in WordPress without Plugin or Code,,/questions/41206722/create-html-tables-in-wordpress-without-plugin-or-code,php
+403,Regex for HTML outside markdown code block,,/questions/41206721/regex-for-html-outside-markdown-code-block,javascript
+404,Connection must be valid,,/questions/41206619/connection-must-be-valid,mysql
+405,Angular JS: ng-repeat not generating an expected outcome,,/questions/41206618/angular-js-ng-repeat-not-generating-an-expected-outcome,angularjs
+406,Precise web print solution,,/questions/41206617/precise-web-print-solution,html5
+407,Assigning value to new objects made using constructors,,/questions/41206614/assigning-value-to-new-objects-made-using-constructors,javascript
+408,Log4j2: Redirect logging statements of a class and its call chain,,/questions/41206962/log4j2-redirect-logging-statements-of-a-class-and-its-call-chain,java
+409,How to define the corner points,,/questions/41206961/how-to-define-the-corner-points,c#
+410,Why and how display zoom option changes iPhone screen size in points?,,/questions/41206959/why-and-how-display-zoom-option-changes-iphone-screen-size-in-points,ios
+411,Animated custom layout in UICollectionView,,/questions/41207199/animated-custom-layout-in-uicollectionview,ios
+412,WebSocket connection raised “Error: not opened” after sending a message in tests,,/questions/41207198/websocket-connection-raised-error-not-opened-after-sending-a-message-in-tests,javascript
+413,How to implement file navigation? (meaning directory browsing on the side),,/questions/41206841/how-to-implement-file-navigation-meaning-directory-browsing-on-the-side,javascript
+414,Elasticsearch aggregation with complex pipeline,,/questions/41206839/elasticsearch-aggregation-with-complex-pipeline,elasticsearch
+415,Return value of a function in C,,/questions/41207006/return-value-of-a-function-in-c,c
+416,Why Linux filter respond to ping request after a few days?,,/questions/41207004/why-linux-filter-respond-to-ping-request-after-a-few-days,linux
+417,Draw a simple plotly line graph horizontally,,/questions/41207002/draw-a-simple-plotly-line-graph-horizontally,plotly
+418,Django project structure in Eclipse (3 layers),,/questions/41207000/django-project-structure-in-eclipse-3-layers,django
+419,Get Response From WebView in Swift,,/questions/41206718/get-response-from-webview-in-swift,ios
+420,How to write own code to replace `std::min_element` to find smallest value in vector,,/questions/41206717/how-to-write-own-code-to-replace-stdmin-element-to-find-smallest-value-in-ve,c++
+421,How do I not use gamescene.swift instead of gamescene.sks,,/questions/41206712/how-do-i-not-use-gamescene-swift-instead-of-gamescene-sks,swift
+422,"How should I handle URL references that are relative to the root of my application, without knowing the application's root URL?",,/questions/41206611/how-should-i-handle-url-references-that-are-relative-to-the-root-of-my-applicati,python-3.x
+423,return value in function handler with swift 3 [duplicate],,/questions/41206609/return-value-in-function-handler-with-swift-3,swift
+424,c# Byte to Image OutRangeException,,/questions/41206604/c-sharp-byte-to-image-outrangeexception,c#
+425,My Woocommerce website isn't redirecting to cart or checkout page anymore,,/questions/41206603/my-woocommerce-website-isnt-redirecting-to-cart-or-checkout-page-anymore,wordpress
+426,owl-carousel with dynamic items,,/questions/41206958/owl-carousel-with-dynamic-items,jquery
+427,i want to correct the alignment of the drop down menu items in mybb header in mobile browser,,/questions/41206956/i-want-to-correct-the-alignment-of-the-drop-down-menu-items-in-mybb-header-in-mo,header
+428,the counter “c” is incremented in for loop without being initialized by 1,,/questions/41207197/the-counter-c-is-incremented-in-for-loop-without-being-initialized-by-1,c
+429,how to make a serializable object,,/questions/41207196/how-to-make-a-serializable-object,android
+430,Get record value from database and implode it,,/questions/41207194/get-record-value-from-database-and-implode-it,php
+431,Looking for better understanding on the coding standards,,/questions/41207193/looking-for-better-understanding-on-the-coding-standards,c#
+432,how to use apache common-math function for differentiation of fractions,,/questions/41206838/how-to-use-apache-common-math-function-for-differentiation-of-fractions,apache
+433,How to implement Breadth First Transversal of a Trie?,,/questions/41206711/how-to-implement-breadth-first-transversal-of-a-trie,c++
+434,Can't save value from appended form field,,/questions/41206707/cant-save-value-from-appended-form-field,php
+435,User defined Output in Shiny,,/questions/41206706/user-defined-output-in-shiny,r
+436,Insertion sort - Best/Average analysis,,/questions/41206705/insertion-sort-best-average-analysis,algorithm
+437,How to do MySQL order by best with multiple fields?,,/questions/41206601/how-to-do-mysql-order-by-best-with-multiple-fields,mysql
+438,Win32 application MOV to memory address does not work correctly,,/questions/41206600/win32-application-mov-to-memory-address-does-not-work-correctly,assembly
+439,"What causes connection errors resulting in: message from server: ""xxxx' is blocked because of many connection errors'",,/questions/41206596/what-causes-connection-errors-resulting-in-message-from-server-xxxx-is-block,java
+440,Why i can not show select into result into the text field in oracle apex?,,/questions/41206952/why-i-can-not-show-select-into-result-into-the-text-field-in-oracle-apex,oracle-apex
+441,How to use isset condition for mysql query output,,/questions/41206951/how-to-use-isset-condition-for-mysql-query-output,php
+442,"python error:ImportError: sys.meta_path is None, Python is likely shutting down",,/questions/41206947/python-errorimporterror-sys-meta-path-is-none-python-is-likely-shutting-down,python
+443,Pass parameter in exec running daemon,,/questions/41207192/pass-parameter-in-exec-running-daemon,php
+444,Not able to install anything using npm,,/questions/41207188/not-able-to-install-anything-using-npm,sockets
+445,Very weird bug trying to write a data dictionary from XML to delimited file,,/questions/41207187/very-weird-bug-trying-to-write-a-data-dictionary-from-xml-to-delimited-file,python
+446,Executeing shell script from within mysql query,,/questions/41206836/executeing-shell-script-from-within-mysql-query,mysql
+447,Method overloading where and how meta data will be saved during compilation in java,,/questions/41206835/method-overloading-where-and-how-meta-data-will-be-saved-during-compilation-in-j,java
+448,Oracle insert statement,,/questions/41206833/oracle-insert-statement,oracle
+449,"I want throw an alert after the user enters wrong password (the validation is from DB), I need to generate alert from my Servlet, how to do that?",,/questions/41206704/i-want-throw-an-alert-after-the-user-enters-wrong-password-the-validation-is-fr,java
+450,Three bars at top and one (like auto scrolling ticker) at bottom for an iPhone and iPad app,,/questions/41206699/three-bars-at-top-and-one-like-auto-scrolling-ticker-at-bottom-for-an-iphone-a,swift
+451,"I am new to android programming,my app crashes when launched,Please find what's wrong with my code? [on hold]",,/questions/41206688/i-am-new-to-android-programming-my-app-crashes-when-launched-please-find-whats,java
+452,Index into object with templatized type,,/questions/41206595/index-into-object-with-templatized-type,typescript
+453,errors in javascript and cannot catch up the bug,,/questions/41206593/errors-in-javascript-and-cannot-catch-up-the-bug,javascript
+454,Hiding android keypad when clicking on the screen,,/questions/41206592/hiding-android-keypad-when-clicking-on-the-screen,android
+455,Adding a structure to a NSDictionary,,/questions/41206591/adding-a-structure-to-a-nsdictionary,ios
+456,Ad network not displaying android?,,/questions/41206945/ad-network-not-displaying-android,android
+457,how to get description of error in unix,,/questions/41206944/how-to-get-description-of-error-in-unix,unix
+458,getselecteddataasync() not working in outlook read mode in outlook addin,,/questions/41207185/getselecteddataasync-not-working-in-outlook-read-mode-in-outlook-addin,outlook
+459,Place a photo in the correct position (html),,/questions/41207183/place-a-photo-in-the-correct-position-html,position
+460,vba change default printer before printing pdf file,,/questions/41207178/vba-change-default-printer-before-printing-pdf-file,excel
+461,checkselfpermission cannot be resolved android [duplicate],,/questions/41207175/checkselfpermission-cannot-be-resolved-android,android
+462,how to solve Steam web api incur strict rate limits for the connecting IP,,/questions/41206831/how-to-solve-steam-web-api-incur-strict-rate-limits-for-the-connecting-ip,steam-web-api
+463,Realtime updated field in google maps marker label,,/questions/41206830/realtime-updated-field-in-google-maps-marker-label,javascript
+464,mysqli:prepare() Could not fetch mysqli,,/questions/41206682/mysqliprepare-could-not-fetch-mysqli,php
+465,How to wait for a page to be loaded in WebView before executing the next task without making the thread sleep?,,/questions/41206681/how-to-wait-for-a-page-to-be-loaded-in-webview-before-executing-the-next-task-wi,java
+466,Detecting gps when ionic app is accessed through ionic view?,,/questions/41206680/detecting-gps-when-ionic-app-is-accessed-through-ionic-view,android
+467,how to make portion of UILabel bold,,/questions/41206678/how-to-make-portion-of-uilabel-bold,ios
+468,Using SQLAlchemy how do I populate rows after creating the db using db.create_all(),,/questions/41206590/using-sqlalchemy-how-do-i-populate-rows-after-creating-the-db-using-db-create-al,python
+469,Please explain this C Program…platinum block C program,,/questions/41206589/please-explain-this-c-program-platinum-block-c-program,c
+470,Low poly landscape fractal,,/questions/41206587/low-poly-landscape-fractal,noise
+471,"Reducing memory consumption for JVM (-Xmx, -XX:MaxMetaspaceSize)",,/questions/41206942/reducing-memory-consumption-for-jvm-xmx-xxmaxmetaspacesize,java
+472,Create a block numpy array from a numpy array of 2D numpy arrays efficiently,,/questions/41206941/create-a-block-numpy-array-from-a-numpy-array-of-2d-numpy-arrays-efficiently,python
+473,Text to column in excel. Using Python. May be openpyxl,,/questions/41206940/text-to-column-in-excel-using-python-may-be-openpyxl,python
+474,How to get different currency rates from Yahoo finance?,,/questions/41206939/how-to-get-different-currency-rates-from-yahoo-finance,currency
+475,Custom attribulte value is not storing to order_attribute table of Magento,,/questions/41207173/custom-attribulte-value-is-not-storing-to-order-attribute-table-of-magento,magento
+476,How can I write a function which has lots of arguments better?,,/questions/41207170/how-can-i-write-a-function-which-has-lots-of-arguments-better,php
+477,How to run tomcat jsp engine in electron.atom app?,,/questions/41206826/how-to-run-tomcat-jsp-engine-in-electron-atom-app,electron
+478,how to make that the each index of the column vector should be repeated only twice,,/questions/41206825/how-to-make-that-the-each-index-of-the-column-vector-should-be-repeated-only-twi,matlab
+479,kernel in c inline assembly,,/questions/41206822/kernel-in-c-inline-assembly,linux
+480,datetime not converting from mysql to json,,/questions/41206816/datetime-not-converting-from-mysql-to-json,php
+481,Genericizing a method and a parameter to be passed,,/questions/41206677/genericizing-a-method-and-a-parameter-to-be-passed,c#
+482,Error 1 error LNK1104: cannot open file 'opencv_calib3d2413d.obj',,/questions/41206676/error-1-error-lnk1104-cannot-open-file-opencv-calib3d2413d-obj,c++
+483,Increase THREE.js raycaster intersection with heighmap represented with bufferGeometry,,/questions/41206584/increase-three-js-raycaster-intersection-with-heighmap-represented-with-bufferge,math
+484,Biometric device controlling using Android tab,,/questions/41206580/biometric-device-controlling-using-android-tab,android
+485,On IAR Workbench Download menu disabled,,/questions/41206579/on-iar-workbench-download-menu-disabled,iar
+486,Download content of a specific folder from AWS,,/questions/41206578/download-content-of-a-specific-folder-from-aws,java
+487,Regarding runtime permission model in Android M,,/questions/41206938/regarding-runtime-permission-model-in-android-m,android
+488,Why there's some “noise” around the edge of my loading gif on my website?,,/questions/41206937/why-theres-some-noise-around-the-edge-of-my-loading-gif-on-my-website,gif
+489,Make a List of String array from a List of String using LINQ,,/questions/41206934/make-a-list-of-string-array-from-a-list-of-string-using-linq,c#
+490,Android : Google Plus Login,,/questions/41206444/android-google-plus-login,java
+491,apply complex formula to datatable,,/questions/41206318/apply-complex-formula-to-datatable,c#
+492,Button to hide element in expandablelistview child,,/questions/41206214/button-to-hide-element-in-expandablelistview-child,java
+493,Betting the sports data,,/questions/41207168/betting-the-sports-data,r
+494,Error loading Alamofire in swift 3,,/questions/41207167/error-loading-alamofire-in-swift-3,swift
+495,Does poll/epoll handling is in interrupt context?,,/questions/41207165/does-poll-epoll-handling-is-in-interrupt-context,linux
+496,Solving A value is trying to be set on a copy of a slice from a DataFrame,,/questions/41207160/solving-a-value-is-trying-to-be-set-on-a-copy-of-a-slice-from-a-dataframe,python
+497,tracking GPS data flow on windows ce application,,/questions/41206814/tracking-gps-data-flow-on-windows-ce-application,windows-ce
+498,Eclipse pstmt SQL query error,,/questions/41206813/eclipse-pstmt-sql-query-error,java
+499,getElementbyId in typeScript is not working as I want it to,,/questions/41206812/getelementbyid-in-typescript-is-not-working-as-i-want-it-to,typescript
+500,DateFormatter date from string returns nil,,/questions/41206810/dateformatter-date-from-string-returns-nil,ios
+501,psutil: Measuring the cpu usage of a specific process,,/questions/41206809/psutil-measuring-the-cpu-usage-of-a-specific-process,python
+502,How do you use Hash DRBG?,,/questions/41206802/how-do-you-use-hash-drbg,c
+503,What happens before onResume() after click home button and press power button respectively?,,/questions/41206675/what-happens-before-onresume-after-click-home-button-and-press-power-button-re,android
+504,Valgrind: Invalid Read of Size 8 when freeing a linked list in C,,/questions/41206673/valgrind-invalid-read-of-size-8-when-freeing-a-linked-list-in-c,c
+505,Why is the data not getting appended to the table?,,/questions/41206672/why-is-the-data-not-getting-appended-to-the-table,javascript
+506,HTML Canvas: Delay Animation,,/questions/41206577/html-canvas-delay-animation,javascript
+507,What's the best way to implement Activation Maximization in Tensorflow?,,/questions/41206576/whats-the-best-way-to-implement-activation-maximization-in-tensorflow,tensorflow
+508,Azure Function Compiler Issues,,/questions/41206933/azure-function-compiler-issues,c#
+509,Restore frame to window in pyqt,,/questions/41206930/restore-frame-to-window-in-pyqt,python
+510,Regular Expression to validate email address and allow only with .com and .asia,,/questions/41206920/regular-expression-to-validate-email-address-and-allow-only-with-com-and-asia,regex
+511,"php , You have an error in your SQL syntax",,/questions/41206918/php-you-have-an-error-in-your-sql-syntax,php
+512,readChar in R from stdin,,/questions/41206443/readchar-in-r-from-stdin,r
+513,How to get IEditorOperations from IVsTextView?,,/questions/41206441/how-to-get-ieditoroperations-from-ivstextview,visual-studio
+514,Unable to load leaftlet map,,/questions/41206437/unable-to-load-leaftlet-map,leaflet
+515,"what difficulties we mostly face, while writing OWL",,/questions/41206431/what-difficulties-we-mostly-face-while-writing-owl,semantic-web
+516,How to get Table Html except first row,,/questions/41206428/how-to-get-table-html-except-first-row,javascript
+517,Plotting arbitrary Boolean Function using python Plotly,,/questions/41206317/plotting-arbitrary-boolean-function-using-python-plotly,python
+518,How can I map a string and compare with another string?,,/questions/41206315/how-can-i-map-a-string-and-compare-with-another-string,android
+519,How to grouping two or many image to one image in golang?,,/questions/41206312/how-to-grouping-two-or-many-image-to-one-image-in-golang,image-processing
+520,Remove a specific commit but keep all the commits afterward,,/questions/41206311/remove-a-specific-commit-but-keep-all-the-commits-afterward,git
+521,Eclipse CDT setting up MinGW PATH variable,,/questions/41206212/eclipse-cdt-setting-up-mingw-path-variable,path
+522,How can I apply deep learning to find similar entries in DB?,,/questions/41206210/how-can-i-apply-deep-learning-to-find-similar-entries-in-db,machine-learning
+523,Creating RedhawkSDR component using liquid-dsp library,,/questions/41206208/creating-redhawksdr-component-using-liquid-dsp-library,liquid
+524,How can I force to load a class that is only shown with the effect of JQuery in my Mediaquery?,,/questions/41207155/how-can-i-force-to-load-a-class-that-is-only-shown-with-the-effect-of-jquery-in,javascript
+525,How to solve quasi-tridiagonal linear systems of equations?,,/questions/41207152/how-to-solve-quasi-tridiagonal-linear-systems-of-equations,matlab
+526,Undefined index on inner join,,/questions/41207151/undefined-index-on-inner-join,php
+527,How should I handle multiple threads accessing a sqlite database in Python?,,/questions/41206800/how-should-i-handle-multiple-threads-accessing-a-sqlite-database-in-python,python
+528,React JS app funny behavior in chorme and firefox,,/questions/41206798/react-js-app-funny-behavior-in-chorme-and-firefox,javascript
+529,Select Javascript created element in Selenium Python,,/questions/41206797/select-javascript-created-element-in-selenium-python,javascript
+530,RealmResult contains data but size() returns zero,,/questions/41206796/realmresult-contains-data-but-size-returns-zero,realm-java
+531,How to debug visual studio solution with command line arguments?,,/questions/41206794/how-to-debug-visual-studio-solution-with-command-line-arguments,visual-studio
+532,JFileChooser open button validation,,/questions/41206573/jfilechooser-open-button-validation,java
+533,Crystal C bindings: using fopen,,/questions/41206572/crystal-c-bindings-using-fopen,crystal-lang
+534,LINQ compare 2 diffrent fields from 2 aliases ERROR,,/questions/41206571/linq-compare-2-diffrent-fields-from-2-aliases-error,linq
+535,Count value is changed when tableview is scrolling,,/questions/41206915/count-value-is-changed-when-tableview-is-scrolling,ios
+536,Laravel 5.2 whereBetween not working,,/questions/41206914/laravel-5-2-wherebetween-not-working,php
+537,Logistic Regression in python using Logit() and fit(),,/questions/41206911/logistic-regression-in-python-using-logit-and-fit,python
+538,AppRTC server setup,,/questions/41206909/apprtc-server-setup,android
+539,Why SQL Server trigger does not fire after insert using Entity Framework?,,/questions/41206426/why-sql-server-trigger-does-not-fire-after-insert-using-entity-framework,c#
+540,Hiding rows from gridview based on a value from field in that row,,/questions/41206424/hiding-rows-from-gridview-based-on-a-value-from-field-in-that-row,c#
+541,Sql query using subquery,,/questions/41206421/sql-query-using-subquery,mysql
+542,Navigation Bar - React Native,,/questions/41206310/navigation-bar-react-native,react-native
+543,c++ take half-word from integer variable when displayed in hex,,/questions/41206306/c-take-half-word-from-integer-variable-when-displayed-in-hex,c++
+544,UnicodeDecodeError: 'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte,,/questions/41206304/unicodedecodeerror-utf-8-codec-cant-decode-byte-0x8b-in-position-1-invalid,python
+545,GA: show active users on my website without asking the user to connect any google account?,,/questions/41206206/ga-show-active-users-on-my-website-without-asking-the-user-to-connect-any-googl,google-api
+546,How to query/search/retrieve an Edge with a pair of Vertices in OrientDB using Java API?,,/questions/41206205/how-to-query-search-retrieve-an-edge-with-a-pair-of-vertices-in-orientdb-using-j,java
+547,C# use DLL functions dynamically,,/questions/41206202/c-sharp-use-dll-functions-dynamically,c#
+548,Transitioning from FBSDKLoginButton click to a TabBarController not working,,/questions/41206198/transitioning-from-fbsdkloginbutton-click-to-a-tabbarcontroller-not-working,ios
+549,"Batch update returned unexpected row count from update [0]; actual row count: 0; expected: 1 , when i submit to jsp to database i got this exception",,/questions/41206196/batch-update-returned-unexpected-row-count-from-update-0-actual-row-count-0,spring-mvc
+550,Syntax error when adding Runnable in static initializer with javassist,,/questions/41207149/syntax-error-when-adding-runnable-in-static-initializer-with-javassist,javassist
+551,Can we use loopback addresses for two-nodes heartbeat communication?,,/questions/41207147/can-we-use-loopback-addresses-for-two-nodes-heartbeat-communication,networking
+552,Unable to complete a Custom Filter Pipe in Angular 2,,/questions/41207146/unable-to-complete-a-custom-filter-pipe-in-angular-2,angular2
+553,the setColorFilter doesn't work in onTabSelected event in android 5,,/questions/41206792/the-setcolorfilter-doesnt-work-in-ontabselected-event-in-android-5,android
+554,Javascript Function test each array and return all in array,,/questions/41206790/javascript-function-test-each-array-and-return-all-in-array,javascript
+555,How can I integrate wordpress into laravel,,/questions/41206570/how-can-i-integrate-wordpress-into-laravel,wordpress
+556,above the fold-Prioritize visible content,,/questions/41206569/above-the-fold-prioritize-visible-content,javascript
+557,what is org.hibernate.criterion.Example class?,,/questions/41206568/what-is-org-hibernate-criterion-example-class,java
+558,C++: what does a method with return type as the class name return?,,/questions/41206907/c-what-does-a-method-with-return-type-as-the-class-name-return,c++
+559,how to configure weblogic to resolve SSL_ERROR_WEAK_SERVER_EPHEMERAL_DH_KEY?,,/questions/41206906/how-to-configure-weblogic-to-resolve-ssl-error-weak-server-ephemeral-dh-key,java
+560,Java - Creating object for child class w.r.t parent class reference [duplicate],,/questions/41206419/java-creating-object-for-child-class-w-r-t-parent-class-reference,java
+561,Ideal Spring Session Timeout Configuration,,/questions/41206416/ideal-spring-session-timeout-configuration,spring
+562,C++ Template Metaprogramming: How does int*** work?,,/questions/41206412/c-template-metaprogramming-how-does-int-work,c++
+563,PHP PDO execute() and fetch() on boolean,,/questions/41206411/php-pdo-execute-and-fetch-on-boolean,php
+564,max value from dictionary,,/questions/41206303/max-value-from-dictionary,python
+565,How can I add to this? [on hold],,/questions/41206300/how-can-i-add-to-this,java
+566,"Error in seq.default(1, 1, length.out = nrow(x)) : argument 'length.out' must be of length 1",,/questions/41206194/error-in-seq-default1-1-length-out-nrowx-argument-length-out-must-be,r
+567,unexpected Error in reduce,,/questions/41206193/unexpected-error-in-reduce,pyspark
+568,C# - Advice on producer/consumer option for giant lists of API calls?,,/questions/41206189/c-sharp-advice-on-producer-consumer-option-for-giant-lists-of-api-calls,c#
+569,The RxCoreData UI is not updated,,/questions/41206188/the-rxcoredata-ui-is-not-updated,ios
+570,GET request with fetch polyfill gives “SyntaxError: Unexpected end of input”,,/questions/41207139/get-request-with-fetch-polyfill-gives-syntaxerror-unexpected-end-of-input,javascript
+571,Add row to a table ANDROID [duplicate],,/questions/41207131/add-row-to-a-table-android,java
+572,"How do I specify OrderedDict K,V types for Mypy type annotation?",,/questions/41207128/how-do-i-specify-ordereddict-k-v-types-for-mypy-type-annotation,python
+573,Javascript - what does != -1 do in this function [duplicate],,/questions/41206789/javascript-what-does-1-do-in-this-function,javascript
+574,How to get one month ago's timestamp from today's last second?,,/questions/41206787/how-to-get-one-month-agos-timestamp-from-todays-last-second,ios
+575,Reset Root password of Fedora linux,,/questions/41206786/reset-root-password-of-fedora-linux,linux
+576,netbeans: generating random key?,,/questions/41207614/netbeans-generating-random-key,java
+577,Gridview with Templatefields to PDF using itextsharp,,/questions/41206109/gridview-with-templatefields-to-pdf-using-itextsharp,c#
+578,Directory size not consistent with what it should be,,/questions/41206566/directory-size-not-consistent-with-what-it-should-be,java
+579,Use iphone to connect to Wi-Fi and share connection to USB,,/questions/41206903/use-iphone-to-connect-to-wi-fi-and-share-connection-to-usb,ios
+580,Unable to FTP from Ubuntu to WIndows 8.1,,/questions/41206902/unable-to-ftp-from-ubuntu-to-windows-8-1,linux
+581,"Return the sum of the numbers in the array, returning 0 for an empty array. Except the number 13 is very unlucky",,/questions/41206899/return-the-sum-of-the-numbers-in-the-array-returning-0-for-an-empty-array-exce,java
+582,jsp servlet with bean MVC architecture,,/questions/41206410/jsp-servlet-with-bean-mvc-architecture,java
+583,Changing permissions for media items stored in s3,,/questions/41206409/changing-permissions-for-media-items-stored-in-s3,ruby
+584,"how to get the filename along with absolute path to the file, whenever a new file is created using inode in linux?",,/questions/41206408/how-to-get-the-filename-along-with-absolute-path-to-the-file-whenever-a-new-fil,linux
+585,I was Using Eclipse neon and after a restart i got this error [ Unable to obtain result of 'adb version'],,/questions/41206407/i-was-using-eclipse-neon-and-after-a-restart-i-got-this-error-unable-to-obtain,android
+586,"Jsp Page Show İ, Ü AS Ä On Server",,/questions/41206404/jsp-page-show-%c4%b0-%c3%9c-as-%c3%84-on-server,javascript
+587,Tensorflow meets an error when rotating images,,/questions/41206294/tensorflow-meets-an-error-when-rotating-images,tensorflow
+588,"I am trying to build some calculator. Ignore the bad conventions, can someone tell me why all the numbers my functions return are so wrong? [on hold]",,/questions/41206293/i-am-trying-to-build-some-calculator-ignore-the-bad-conventions-can-someone-te,c
+589,focal statistics for array in numpy just like the focal statistics in arcigs,,/questions/41206291/focal-statistics-for-array-in-numpy-just-like-the-focal-statistics-in-arcigs,python
+590,How to update with new values line by line into the System.Speech.Recognition gammar list,,/questions/41206187/how-to-update-with-new-values-line-by-line-into-the-system-speech-recognition-ga,c#
+591,"ASP.NET MVC 5 index view with pagelist, need to include a partial view for search but error [duplicate]",,/questions/41206186/asp-net-mvc-5-index-view-with-pagelist-need-to-include-a-partial-view-for-searc,c#
+592,JavaScript dropdown menu not working as expected,,/questions/41207121/javascript-dropdown-menu-not-working-as-expected,javascript
+593,Android app finding path to SD card,,/questions/41207117/android-app-finding-path-to-sd-card,java
+594,Protecting Routes in a Polymer Starter Kit App,,/questions/41207108/protecting-routes-in-a-polymer-starter-kit-app,firebase
+595,Issue in service workers in chrome,,/questions/41206785/issue-in-service-workers-in-chrome,javascript
+596,How to get all posts from facebook? [on hold],,/questions/41206782/how-to-get-all-posts-from-facebook,php
+597,Get sources of gradle software component for javadoc task,,/questions/41207613/get-sources-of-gradle-software-component-for-javadoc-task,java
+598,Share queue with two or more stateful services within Service Fabric,,/questions/41207612/share-queue-with-two-or-more-stateful-services-within-service-fabric,c#
+599,Parent key not found (oracle),,/questions/41207611/parent-key-not-found-oracle,oracle
+600,Rest Application At any rest client “Get” Response is application/pdf( ask to download pdf). But in code response is below pdf value.,,/questions/41206107/rest-application-at-any-rest-client-get-response-is-application-pdf-ask-to-do,java
+601,best way to create online subscription-based software [on hold],,/questions/41206103/best-way-to-create-online-subscription-based-software,c#
+602,Transform RealmResult in same background thread with RxJava,,/questions/41206101/transform-realmresult-in-same-background-thread-with-rxjava,java
+603,How do I open an URL in iOS using iFrames,,/questions/41206100/how-do-i-open-an-url-in-ios-using-iframes,javascript
+604,Bypassing a decorator for unit testing,,/questions/41206565/bypassing-a-decorator-for-unit-testing,python
+605,Why do we need & at some place and not in the other place when calling functions when both are taking pointer type arguments?,,/questions/41206564/why-do-we-need-at-some-place-and-not-in-the-other-place-when-calling-functions,c
+606,Wampserver does not run on windows 8.1,,/questions/41206898/wampserver-does-not-run-on-windows-8-1,windows-8.1
+607,is there memory leak when STL returns “bad_alloc” exception?,,/questions/41206895/is-there-memory-leak-when-stl-returns-bad-alloc-exception,c++
+608,i was writing a nested layout for my android app but xml is not working,,/questions/41206399/i-was-writing-a-nested-layout-for-my-android-app-but-xml-is-not-working,android-layout
+609,Error when compare a current text with the data store inside my database,,/questions/41206398/error-when-compare-a-current-text-with-the-data-store-inside-my-database,c#
+610,Modular exponentiation - get initial number,,/questions/41206394/modular-exponentiation-get-initial-number,python
+611,Errror while using a SQLite database [duplicate],,/questions/41206288/errror-while-using-a-sqlite-database,java
+612,How to clone old builder to make a new builder object?,,/questions/41206286/how-to-clone-old-builder-to-make-a-new-builder-object,java
+613,Unexpected behavior in C,,/questions/41206285/unexpected-behavior-in-c,c
+614,Redirect form with 302,,/questions/41206277/redirect-form-with-302,php
+615,Restrict places autocomplete results to within COUNTRY and STATE,,/questions/41206185/restrict-places-autocomplete-results-to-within-country-and-state,json
+616,jQuery Lazy horizontal data-src load fade or animate loading image,,/questions/41206183/jquery-lazy-horizontal-data-src-load-fade-or-animate-loading-image,fadein
+617,What if I know the answer to something interviewer has asked me?,,/questions/41206182/what-if-i-know-the-answer-to-something-interviewer-has-asked-me,coding-style
+618,ggplot: Multiple years on same plot by month,,/questions/41206181/ggplot-multiple-years-on-same-plot-by-month,r
+619,Fuse filesystem working on debug mode but not in normal mode,,/questions/41207610/fuse-filesystem-working-on-debug-mode-but-not-in-normal-mode,linux
+620,"What does “char *str[] = {”piece“,”of“,”cake“};” mean?",,/questions/41207609/what-does-char-str-piece-of-cake-mean,c
+621,Python Pandas: How to put result of DataFrame groupby in a data frame with new column name?,,/questions/41207608/python-pandas-how-to-put-result-of-dataframe-groupby-in-a-data-frame-with-new-c,python
+622,`auth_basic off`is being ignored,,/questions/41206098/auth-basic-offis-being-ignored,php
+623,Asset Management in Yii 2.0,,/questions/41206090/asset-management-in-yii-2-0,yii
+624,Most pythonic way to initialize a dict,,/questions/41206089/most-pythonic-way-to-initialize-a-dict,python
+625,"Google maps API, callback is not a function",,/questions/41206563/google-maps-api-callback-is-not-a-function,javascript
+626,Is it possible to view Swift implementation code?,,/questions/41206560/is-it-possible-to-view-swift-implementation-code,swift
+627,How can I get call graph with the code coverage for unit tests,,/questions/41206559/how-can-i-get-call-graph-with-the-code-coverage-for-unit-tests,angularjs
+628,Check if a string contains only characters from a regular expression [duplicate],,/questions/41206546/check-if-a-string-contains-only-characters-from-a-regular-expression,python
+629,How to create language option in Android project,,/questions/41206545/how-to-create-language-option-in-android-project,android
+630,NameError uninitialized constant Model::Object,,/questions/41206393/nameerror-uninitialized-constant-modelobject,ruby-on-rails
+631,Debugging with FirePhp,,/questions/41206389/debugging-with-firephp,php
+632,Reference and pointers. Why we have them?,,/questions/41206388/reference-and-pointers-why-we-have-them,variables
+633,C++ friend class of the same name in different levels of a nested namespace,,/questions/41206387/c-friend-class-of-the-same-name-in-different-levels-of-a-nested-namespace,c++
+634,Android HttpURLConnection always unauthorized 401 response (Spring Boot REST API),,/questions/41206275/android-httpurlconnection-always-unauthorized-401-response-spring-boot-rest-api,java
+635,Genetic Algorithm - Order of variables in a chromosome,,/questions/41206274/genetic-algorithm-order-of-variables-in-a-chromosome,genetic-algorithm
+636,Passing data from fragment to servlet,,/questions/41206270/passing-data-from-fragment-to-servlet,android
+637,CSS properties is not appliying to Bootstrap in Spring MVC jsp,,/questions/41206269/css-properties-is-not-appliying-to-bootstrap-in-spring-mvc-jsp,html
+638,Socket Time Out Exception in Android N,,/questions/41206178/socket-time-out-exception-in-android-n,java
+639,Overriding methods for defining custom model field in django,,/questions/41206176/overriding-methods-for-defining-custom-model-field-in-django,python
+640,Want to create an bash alias which accepts function with argument,,/questions/41206175/want-to-create-an-bash-alias-which-accepts-function-with-argument,linux
+641,how to call a function within every 5 seconds? [on hold],,/questions/41207606/how-to-call-a-function-within-every-5-seconds,javascript
+642,"Node js, socket.io and ffmpeg multiple connection error",,/questions/41207601/node-js-socket-io-and-ffmpeg-multiple-connection-error,javascript
+643,detach() isn't removing element dom4j,,/questions/41207600/detach-isnt-removing-element-dom4j,java
+644,"Changing the coordinate system of nodes, without carrying the changes",,/questions/41207595/changing-the-coordinate-system-of-nodes-without-carrying-the-changes,opengl
+645,PHP - MYSQL ZingChart Time is 7 hours ahead,,/questions/41206088/php-mysql-zingchart-time-is-7-hours-ahead,php
+646,Summation in R and Excel are different using Google Adwords performance report data,,/questions/41206086/summation-in-r-and-excel-are-different-using-google-adwords-performance-report-d,r
+647,How to automaticatically assign sudomain to users during registration,,/questions/41206084/how-to-automaticatically-assign-sudomain-to-users-during-registration,php
+648,Attraction Force as coding,,/questions/41206083/attraction-force-as-coding,arrays
+649,"Can a Windows Form be more attractive using VB.NEt?? If yes, then how? [on hold]",,/questions/41206543/can-a-windows-form-be-more-attractive-using-vb-net-if-yes-then-how,c#
+650,Yii2 pretty url works on hosting but not locally,,/questions/41206542/yii2-pretty-url-works-on-hosting-but-not-locally,php
+651,Enum indexes from string,,/questions/41206541/enum-indexes-from-string,vb.net
+652,How to get the magic number from File in java,,/questions/41206540/how-to-get-the-magic-number-from-file-in-java,java
+653,Check if contact is favourite in android,,/questions/41206385/check-if-contact-is-favourite-in-android,java
+654,Using BeanShell Assersion for saving failed response,,/questions/41206379/using-beanshell-assersion-for-saving-failed-response,debugging
+655,Threading error in python,,/questions/41206378/threading-error-in-python,python
+656,Why this R dplyr getAges fails on ordered list?,,/questions/41206377/why-this-r-dplyr-getages-fails-on-ordered-list,r
+657,CSS bug with Image on responsive web page,,/questions/41206265/css-bug-with-image-on-responsive-web-page,html
+658,Insert a check box in html using QT,,/questions/41206264/insert-a-check-box-in-html-using-qt,html
+659,How can i make Binding Source.Find work when textbox on change event,,/questions/41206263/how-can-i-make-binding-source-find-work-when-textbox-on-change-event,c#
+660,Androud Studio plugging in detached libraries,,/questions/41206262/androud-studio-plugging-in-detached-libraries,android
+661,Zsh takes a second to start?,,/questions/41206174/zsh-takes-a-second-to-start,zsh
+662,How to send a message to a certain group chat using Visual Basic and Skype?,,/questions/41206173/how-to-send-a-message-to-a-certain-group-chat-using-visual-basic-and-skype,vb.net
+663,Could not connect to host soap exception,,/questions/41207594/could-not-connect-to-host-soap-exception,php
+664,chartist js on action selectors: finding coordinates for the ct-point element,,/questions/41207593/chartist-js-on-action-selectors-finding-coordinates-for-the-ct-point-element,jquery
+665,multiprocess sub-function does not return any results,,/questions/41207591/multiprocess-sub-function-does-not-return-any-results,python
+666,spring tool suite hovers selected tab how to turn it of?,,/questions/41207590/spring-tool-suite-hovers-selected-tab-how-to-turn-it-of,eclipse
+667,is there any way to calculate speed using ADXL345 accelerometer using arduino?,,/questions/41207589/is-there-any-way-to-calculate-speed-using-adxl345-accelerometer-using-arduino,accelerometer
+668,How do I display mysql table data on google chart api?,,/questions/41206080/how-do-i-display-mysql-table-data-on-google-chart-api,php
+669,Understanding Angular data binding,,/questions/41206075/understanding-angular-data-binding,javascript
+670,Generate infinite list from function results,,/questions/41206074/generate-infinite-list-from-function-results,algorithm
+671,How to access an object created within a function from another function,,/questions/41206067/how-to-access-an-object-created-within-a-function-from-another-function,javascript
+672,Summary row or dataframe,,/questions/41206538/summary-row-or-dataframe,python
+673,Foreign key in one table have high read performance or another table with two primary key?,,/questions/41206535/foreign-key-in-one-table-have-high-read-performance-or-another-table-with-two-pr,mysql
+674,What is protonect and can I run it?,,/questions/41206534/what-is-protonect-and-can-i-run-it,opencv
+675,Using Ransack in rails for searching companies and associated categories,,/questions/41206531/using-ransack-in-rails-for-searching-companies-and-associated-categories,ruby-on-rails
+676,What is AODMS on my computer taking up 90% of my CPU?,,/questions/41206373/what-is-aodms-on-my-computer-taking-up-90-of-my-cpu,performance
+677,Convert String to Function name in GO? [duplicate],,/questions/41206370/convert-string-to-function-name-in-go,go
+678,Buffer overflow or something else,,/questions/41206367/buffer-overflow-or-something-else,c
+679,Python Pip install error with: flask-mysqldb,,/questions/41206366/python-pip-install-error-with-flask-mysqldb,python
+680,time complexity issues of my program,,/questions/41206365/time-complexity-issues-of-my-program,python
+681,Getting a 415 Unsupported Media Type error when posting an ASP.NET Core MVC form with unobtrusive ajax,,/questions/41206362/getting-a-415-unsupported-media-type-error-when-posting-an-asp-net-core-mvc-form,jquery
+682,redirect to a servlet when a url/link sent to user in email is clicked,,/questions/41206261/redirect-to-a-servlet-when-a-url-link-sent-to-user-in-email-is-clicked,java
+683,Finding the a subgraph that is a binary tree and contains all nodes,,/questions/41206260/finding-the-a-subgraph-that-is-a-binary-tree-and-contains-all-nodes,algorithm
+684,"React Native - set content position instantly, avoid slow scroll",,/questions/41206257/react-native-set-content-position-instantly-avoid-slow-scroll,reactjs
+685,Coding software alternatives?,,/questions/41206172/coding-software-alternatives,coda
+686,how to check if a string contains any form of an apostrophe not just single quote and ruby,,/questions/41206170/how-to-check-if-a-string-contains-any-form-of-an-apostrophe-not-just-single-quot,ruby
+687,How to insert Data into DB table from Dynamically Created Table via AJAX in mvc5,,/questions/41207586/how-to-insert-data-into-db-table-from-dynamically-created-table-via-ajax-in-mvc5,mysql
+688,How can I turn off cv2.rectangle() drawing function for subsequent images?,,/questions/41207584/how-can-i-turn-off-cv2-rectangle-drawing-function-for-subsequent-images,opencv
+689,"Python lambda for loop twice, TypeError: 'generator' object is not callable occur",,/questions/41206065/python-lambda-for-loop-twice-typeerror-generator-object-is-not-callable-occu,python
+690,"Best Practices Using Docker Across DEV, QA, PROD",,/questions/41206063/best-practices-using-docker-across-dev-qa-prod,git
+691,"In a Ruby gem, is it possible to have executables written in other languages?",,/questions/41206061/in-a-ruby-gem-is-it-possible-to-have-executables-written-in-other-languages,ruby
+692,Groovy's @Grab HEAD request with basic auth fails with 401 - Unauthorized,,/questions/41206529/groovys-grab-head-request-with-basic-auth-fails-with-401-unauthorized,groovy
+693,transaction : except or on e:exception?,,/questions/41206525/transaction-except-or-on-eexception,delphi
+694,Java: Use resource in try with resource statement that was created before,,/questions/41206524/java-use-resource-in-try-with-resource-statement-that-was-created-before,java
+695,Button in UITableView hierarchy UITest,,/questions/41206523/button-in-uitableview-hierarchy-uitest,ios
+696,Access response from asynchronous function [duplicate],,/questions/41206361/access-response-from-asynchronous-function,ios
+697,How incoming data is distributed among tabs in a browser?,,/questions/41206360/how-incoming-data-is-distributed-among-tabs-in-a-browser,networking
+698,DHTML Scheduler with jquery autocomplete,,/questions/41206353/dhtml-scheduler-with-jquery-autocomplete,json
+699,System.NullReferenceException when adding a value to parameter,,/questions/41206258/system-nullreferenceexception-when-adding-a-value-to-parameter,c#
+700,Convert pyspark.sql.dataframe.DataFrame type Dataframe to Dictionary,,/questions/41206255/convert-pyspark-sql-dataframe-dataframe-type-dataframe-to-dictionary,python
+701,Sidenav that only appears on mobile devices,,/questions/41206254/sidenav-that-only-appears-on-mobile-devices,jquery
+702,How to set WebView in adapter from a webview list in android?,,/questions/41206251/how-to-set-webview-in-adapter-from-a-webview-list-in-android,android
+703,How to perform TPC-C transactions in Java by using MongoDB as a database?,,/questions/41206168/how-to-perform-tpc-c-transactions-in-java-by-using-mongodb-as-a-database,java
+704,send and receive XML via HTTP POST method in Android (REST API),,/questions/41206166/send-and-receive-xml-via-http-post-method-in-android-rest-api,android
+705,Google Sheets Script Wildcards,,/questions/41207583/google-sheets-script-wildcards,google-spreadsheet
+706,Available Miicrosoft Cognitive regions,,/questions/41207579/available-miicrosoft-cognitive-regions,microsoft-cognitive
+707,End a task that has a ui updated inside the task C#,,/questions/41207578/end-a-task-that-has-a-ui-updated-inside-the-task-c-sharp,c#
+708,How to make a mobile Java application to run in a Samsung java phone,,/questions/41207576/how-to-make-a-mobile-java-application-to-run-in-a-samsung-java-phone,java
+709,HttpServlet contracts for doGet and doPost,,/questions/41207575/httpservlet-contracts-for-doget-and-dopost,java
+710,What exactly does synchronizedMap() do?,,/questions/41206059/what-exactly-does-synchronizedmap-do,java
+711,How can I display <TAB> as bars in vim,,/questions/41206522/how-can-i-display-tab-as-bars-in-vim,linux
+712,Why Is My Network Operation Taking Forever?,,/questions/41206519/why-is-my-network-operation-taking-forever,nsoperation
+713,How do I safely call an async method from EF's non-async SaveChanges?,,/questions/41206510/how-do-i-safely-call-an-async-method-from-efs-non-async-savechanges,c#
+714,NodeJS - Hash a file stream using promises,,/questions/41206509/nodejs-hash-a-file-stream-using-promises,node.js
+715,Java concurrent modification across threads,,/questions/41206348/java-concurrent-modification-across-threads,java
+716,"Error:(22, 0) Could not find method android() for arguments [build_4qvt5bnf7om77zwaypm0d47tx$_run_closure3@7c6d4379] on root project",,/questions/41206342/error22-0-could-not-find-method-android-for-arguments-build-4qvt5bnf7om77,java
+717,How to write a Java function [on hold],,/questions/41206341/how-to-write-a-java-function,java
+718,How to use parameter inside function without passing?,,/questions/41206250/how-to-use-parameter-inside-function-without-passing,php
+719,Does reading multiple files & collect bring them to driver in spark,,/questions/41206247/does-reading-multiple-files-collect-bring-them-to-driver-in-spark,apache-spark
+720,Moving the mouse pointer to the cursor,,/questions/41206243/moving-the-mouse-pointer-to-the-cursor,autohotkey
+721,"I am Using ESP8266 module, can anyone make me understand difference between Station and AP mode",,/questions/41206242/i-am-using-esp8266-module-can-anyone-make-me-understand-difference-between-stat,wifi
+722,IntelliJ Idea unable to execute java Program,,/questions/41206165/intellij-idea-unable-to-execute-java-program,java
+723,using MPI for parallel recovery in Distributed File System (e.g. HDFS),,/questions/41206157/using-mpi-for-parallel-recovery-in-distributed-file-system-e-g-hdfs,hdfs
+724,How do I insert data into oracle's application express?,,/questions/41206155/how-do-i-insert-data-into-oracles-application-express,sql
+725,Smart router to containers,,/questions/41207573/smart-router-to-containers,web
+726,Set an Android Studio package as source,,/questions/41207570/set-an-android-studio-package-as-source,android-studio
+727,How to get a domain with multiples points?,,/questions/41207568/how-to-get-a-domain-with-multiples-points,web
+728,“Expected string default value for `--jbuilder`; got true (boolean)” error in a new rails project,,/questions/41207432/expected-string-default-value-for-jbuilder-got-true-boolean-error-in-a,ruby-on-rails
+729,How to generate a regex to capture everything but curly brace contents,,/questions/41206055/how-to-generate-a-regex-to-capture-everything-but-curly-brace-contents,regex
+730,Getting 'Provider is not enabled | ProviderError{provider='network'}' on calling 'tracker.startListening();' even when WiFi is enabled,,/questions/41206053/getting-provider-is-not-enabled-providererrorprovider-network-on-calling,android
+731,How to with OpenGl in JavaFx 8 ?,,/questions/41206051/how-to-with-opengl-in-javafx-8,java
+732,"RxJS support IE6+(from it's GihHub repository), and why i run it's GitHub repository examples found an error in IE7?",,/questions/41206050/rxjs-support-ie6from-its-gihhub-repository-and-why-i-run-its-github-reposi,javascript
+733,Swapping positions of duplicate values in array (Java),,/questions/41206508/swapping-positions-of-duplicate-values-in-array-java,java
+734,Printing multiplication tables as per form input - Not printing result,,/questions/41206505/printing-multiplication-tables-as-per-form-input-not-printing-result,javascript
+735,WSO2 DAS with Couchbase,,/questions/41206340/wso2-das-with-couchbase,wso2
+736,Reset the value on database after the day is end,,/questions/41206337/reset-the-value-on-database-after-the-day-is-end,c#
+737,Rails 3: how to check if very large migration is running properly,,/questions/41206335/rails-3-how-to-check-if-very-large-migration-is-running-properly,mysql
+738,Rails app deploy to heroku with error H10,,/questions/41206332/rails-app-deploy-to-heroku-with-error-h10,ruby-on-rails
+739,Testing benchmark time and intervals,,/questions/41206241/testing-benchmark-time-and-intervals,javascript
+740,How to develop a n-1 bit multiplexer in Java with random population and unique rules? [on hold],,/questions/41206239/how-to-develop-a-n-1-bit-multiplexer-in-java-with-random-population-and-unique-r,java
+741,AJAX Servlet with database,,/questions/41206237/ajax-servlet-with-database,javascript
+742,Strange PHP Reaction,,/questions/41206154/strange-php-reaction,php
+743,Error with “add cart” button in Magengo,,/questions/41206151/error-with-add-cart-button-in-magengo,javascript
+744,How to disable InteliJ default code format splitting method calls?,,/questions/41207564/how-to-disable-intelij-default-code-format-splitting-method-calls,java
+745,If else statement not working for comparison Java [duplicate],,/questions/41207563/if-else-statement-not-working-for-comparison-java,java
+746,Don't load hidden images or load contents when a tab is clicked,,/questions/41207562/dont-load-hidden-images-or-load-contents-when-a-tab-is-clicked,javascript
+747,How to change the text of a button in Java Netbeans without changing its action,,/questions/41207431/how-to-change-the-text-of-a-button-in-java-netbeans-without-changing-its-action,java
+748,How to read a .dat file using C++..?,,/questions/41207430/how-to-read-a-dat-file-using-c,c++
+749,How do I get IntelliJ/PyCharm to recognize an active IPython kernel?,,/questions/41207420/how-do-i-get-intellij-pycharm-to-recognize-an-active-ipython-kernel,intellij-idea
+750,Action Script 3 Visibility from a function,,/questions/41207417/action-script-3-visibility-from-a-function,actionscript-3
+751,Python Selenium on Mac and Chrome 55 httplib error,,/questions/41207415/python-selenium-on-mac-and-chrome-55-httplib-error,python
+752,Time calculation in laravel taking input from user,,/questions/41206049/time-calculation-in-laravel-taking-input-from-user,php
+753,"I use eclipse, how to operate to solve: ""Libpng Library”",,/questions/41206044/i-use-eclipse-how-to-operate-to-solve-libpng-library,libpng
+754,Date conversion in spark,,/questions/41206041/date-conversion-in-spark,apache-spark
+755,I need to read data from file into a vector of struct,,/questions/41206504/i-need-to-read-data-from-file-into-a-vector-of-struct,c++
+756,using regions to group cached data in InMemoryCache,,/questions/41206331/using-regions-to-group-cached-data-in-inmemorycache,c#
+757,Specified generic type to implement Clone but type doesn't have Clone method,,/questions/41206326/specified-generic-type-to-implement-clone-but-type-doesnt-have-clone-method,rust
+758,Javascript Array Recursion,,/questions/41206325/javascript-array-recursion,javascript
+759,BindingList.Clear performed Async causes DataGridView System.IndexOutOfRangeException,,/questions/41206321/bindinglist-clear-performed-async-causes-datagridview-system-indexoutofrangeexce,c#
+760,CSS fluid image background not working in Firefox browser,,/questions/41206236/css-fluid-image-background-not-working-in-firefox-browser,html
+761,How to display the NSFontPanel with only fixed-width fonts?,,/questions/41206231/how-to-display-the-nsfontpanel-with-only-fixed-width-fonts,osx
+762,How to create my custom inspection for variable naming rule?,,/questions/41206149/how-to-create-my-custom-inspection-for-variable-naming-rule,intellij-idea
+763,Responsive Web Design: What and how?,,/questions/41206147/responsive-web-design-what-and-how,web
+764,live HTML table source updated by multi user,,/questions/41206145/live-html-table-source-updated-by-multi-user,javascript
+765,Angular 2 ng-if fails,,/questions/41206140/angular-2-ng-if-fails,javascript
+766,Array position determines Toast message,,/questions/41207560/array-position-determines-toast-message,android
+767,#define function gives me unexpected result [duplicate],,/questions/41207558/define-function-gives-me-unexpected-result,c
+768,Typescript: splice removes the whole items in array,,/questions/41207413/typescript-splice-removes-the-whole-items-in-array,arrays
+769,"Adding two characters A and B, what would be the output in PHP? [on hold]",,/questions/41207412/adding-two-characters-a-and-b-what-would-be-the-output-in-php,php
+770,How to export a file which has no delimiters using Sqoop?,,/questions/41207411/how-to-export-a-file-which-has-no-delimiters-using-sqoop,mysql
+771,Can I schedule iOS UI tests using xcodebuild and launchd?,,/questions/41206039/can-i-schedule-ios-ui-tests-using-xcodebuild-and-launchd,ios
+772,What is database seeding in Laravel?,,/questions/41206038/what-is-database-seeding-in-laravel,php
+773,Ascending Descending format datatables,,/questions/41206037/ascending-descending-format-datatables,datatable
+774,Retrieving images from database into multiple filesand then displaying on broswer using jsp,,/questions/41206033/retrieving-images-from-database-into-multiple-filesand-then-displaying-on-broswe,jsp
+775,Exporting Eclipse Java project as .java,,/questions/41206494/exporting-eclipse-java-project-as-java,java
+776,Start windows batch from C++ CreateProcess has different behavior,,/questions/41206320/start-windows-batch-from-c-createprocess-has-different-behavior,c++
+777,Unity UI text Underlap with gameobject and Nullreference in timer,,/questions/41206230/unity-ui-text-underlap-with-gameobject-and-nullreference-in-timer,c#
+778,secure directory with .htaccess not working if direct link specified,,/questions/41206229/secure-directory-with-htaccess-not-working-if-direct-link-specified,apache
+779,How to move to new line in mvc5 on server side,,/questions/41206226/how-to-move-to-new-line-in-mvc5-on-server-side,asp.net-mvc-5.1
+780,Returned value from Meteor Helper not showing up in template,,/questions/41206139/returned-value-from-meteor-helper-not-showing-up-in-template,meteor
+781,How to parse a JSON array in javascript that has a single quote around each object in the array?,,/questions/41206136/how-to-parse-a-json-array-in-javascript-that-has-a-single-quote-around-each-obje,javascript
+782,Ag-grid fullWidthCellRendererFramework adding my own properties,,/questions/41206134/ag-grid-fullwidthcellrendererframework-adding-my-own-properties,reactjs
+783,Positioning of a menu item image (hbmpItem of a MENUITEMINFO) in a context menu,,/questions/41206131/positioning-of-a-menu-item-image-hbmpitem-of-a-menuiteminfo-in-a-context-menu,vb.net
+784,doctrine/dbal not getting installed in Heroku,,/questions/41207555/doctrine-dbal-not-getting-installed-in-heroku,laravel
+785,Wrong activation maps using inception v3 network (tensorflow),,/questions/41207554/wrong-activation-maps-using-inception-v3-network-tensorflow,python
+786,Reverting a list with all sublist recursively,,/questions/41207410/reverting-a-list-with-all-sublist-recursively,list
+787,Critical Error : DriverFrameworks-UserMode,,/questions/41207407/critical-error-driverframeworks-usermode,windows
+788,why am i getting null object [duplicate],,/questions/41207406/why-am-i-getting-null-object,android
+789,MySQL- How to iterate Resultset with multiple values of same column name in java using single SQL query?,,/questions/41206032/mysql-how-to-iterate-resultset-with-multiple-values-of-same-column-name-in-java,java
+790,"In case of 0 query result, response is not proper in php",,/questions/41206031/in-case-of-0-query-result-response-is-not-proper-in-php,php
+791,Bind collection of data inside GridLayout in android,,/questions/41206029/bind-collection-of-data-inside-gridlayout-in-android,android
+792,Clear File Upload on click,,/questions/41206027/clear-file-upload-on-click,javascript
+793,Modifying ui-grid dropdown value with color?,,/questions/41206026/modifying-ui-grid-dropdown-value-with-color,angularjs
+794,Is there any way to use single port to connect to multiple servers?,,/questions/41206491/is-there-any-way-to-use-single-port-to-connect-to-multiple-servers,python-3.x
+795,Send a POST request using Node.js,,/questions/41206490/send-a-post-request-using-node-js,node.js
+796,Issues with UnsafePointer<DSPComplex> while converting aurioTouch to Swift 3,,/questions/41206489/issues-with-unsafepointerdspcomplex-while-converting-auriotouch-to-swift-3,ios
+797,"if i pass iteration variable of ng-repeat into a function, it shows as undefined in angular js",,/questions/41206486/if-i-pass-iteration-variable-of-ng-repeat-into-a-function-it-shows-as-undefined,angularjs
+798,i want to select entire row by checkbox but gives error “Incorrect integer value: 'meetingID' for column 'meetingID' at row 1”,,/questions/41206220/i-want-to-select-entire-row-by-checkbox-but-gives-error-incorrect-integer-value,html
+799,Can't find any element in iOS real device using Appium,,/questions/41206219/cant-find-any-element-in-ios-real-device-using-appium,ios
+800,Python: SQLAlchemy versioning(history_meta) issue on relationship and inheritance,,/questions/41206218/python-sqlalchemy-versioninghistory-meta-issue-on-relationship-and-inheritanc,python
+801,How can I display multiple string values to multiple labels in a custom collectionView Cell in swift ios?,,/questions/41206130/how-can-i-display-multiple-string-values-to-multiple-labels-in-a-custom-collecti,ios
+802,Mono Pkg-Config.exe Won't Run?,,/questions/41206129/mono-pkg-config-exe-wont-run,c#
+803,Authorization in GraphQL servers,,/questions/41206123/authorization-in-graphql-servers,authorization
+804,"excel timer macro not working, “macro can't be found or macros not enabled”",,/questions/41206122/excel-timer-macro-not-working-macro-cant-be-found-or-macros-not-enabled,excel
+805,Convert a matrix to an xts object,,/questions/41206118/convert-a-matrix-to-an-xts-object,r
+806,Is javascript not fast enough for doing fluid simulation?,,/questions/41207553/is-javascript-not-fast-enough-for-doing-fluid-simulation,javascript
+807,Stored procedure causes error “ an error occurred while the batch was being executed”,,/questions/41207405/stored-procedure-causes-error-an-error-occurred-while-the-batch-was-being-exec,c#
+808,parse from string as object path,,/questions/41207404/parse-from-string-as-object-path,javascript
+809,ViewPager setCurrentItem and dataSetChanged sequentially cause upcoming fragment won't display,,/questions/41207402/viewpager-setcurrentitem-and-datasetchanged-sequentially-cause-upcoming-fragment,android
+810,Display an image in real time as it is being created in a loop,,/questions/41206025/display-an-image-in-real-time-as-it-is-being-created-in-a-loop,c#
+811,Adding rows in Two dimensional arrays,,/questions/41206024/adding-rows-in-two-dimensional-arrays,c++
+812,How to change Apple Watch timer object to count down instead of counting up?,,/questions/41206023/how-to-change-apple-watch-timer-object-to-count-down-instead-of-counting-up,ios
+813,CORS on WebAPI 2 C#,,/questions/41206022/cors-on-webapi-2-c-sharp,c#
+814,command line “| was unexpected at this time.” message,,/questions/41206018/command-line-was-unexpected-at-this-time-message,command-line
+815,Memory mapping to reuse parts of a string,,/questions/41206485/memory-mapping-to-reuse-parts-of-a-string,memory-mapping
+816,WitError: Wit responded with status: 400 (Bad Request),,/questions/41206480/witerror-wit-responded-with-status-400-bad-request,python
+817,meteor accounts-password summernote,,/questions/41206479/meteor-accounts-password-summernote,meteor
+818,Increase the shinystat counter banner size (Html),,/questions/41206478/increase-the-shinystat-counter-banner-size-html,html5
+819,<transition> can only be used on a single element,,/questions/41206477/transition-can-only-be-used-on-a-single-element,vue-router
+820,How can I change the address of hyperlink in my application screen dynamically depending on the phone local language,,/questions/41206217/how-can-i-change-the-address-of-hyperlink-in-my-application-screen-dynamically-d,android
+821,Facebook Login for Web in Flask,,/questions/41206216/facebook-login-for-web-in-flask,flask
+822,How does redash work (nginx + gunicorn + flask + supervisord)?,,/questions/41206114/how-does-redash-work-nginx-gunicorn-flask-supervisord,python
+823,Hint for TriangleTriples TopCoder,,/questions/41206113/hint-for-triangletriples-topcoder,dynamic-programming
+824,TurboLinks with Angular,,/questions/41206111/turbolinks-with-angular,ruby-on-rails
+825,How to get value from attribute element,,/questions/41206110/how-to-get-value-from-attribute-element,xml
+826,GameplayKit > Scene Editor Navigation Graph > How to use it for pathfinding?,,/questions/41207550/gameplaykit-scene-editor-navigation-graph-how-to-use-it-for-pathfinding,ios
+827,Excecute File.Copy() at Remote PC end on Remote PC end C#,,/questions/41207549/excecute-file-copy-at-remote-pc-end-on-remote-pc-end-c-sharp,c#
+828,Progressbar in Android WebView,,/questions/41207548/progressbar-in-android-webview,android
+829,Can not install SQL Server 2016 Basic,,/questions/41207545/can-not-install-sql-server-2016-basic,sql-server-2016
+830,Best practise overriding method inside laravel's PasswordBroker.php,,/questions/41207544/best-practise-overriding-method-inside-laravels-passwordbroker-php,laravel-5.2
+831,How to solve NullPointerException in webdriver setup with call in <init>?,,/questions/41207400/how-to-solve-nullpointerexception-in-webdriver-setup-with-call-in-init,java
+832,assign foreign key with request.user but i get error django,,/questions/41207398/assign-foreign-key-with-request-user-but-i-get-error-django,django
+833,assign an object in array of objects c++,,/questions/41207395/assign-an-object-in-array-of-objects-c,c++
+834,2 same number not same in double java [duplicate],,/questions/41207394/2-same-number-not-same-in-double-java,java
+835,onmouseover event on a button,,/questions/41206016/onmouseover-event-on-a-button,javascript
+836,How do I create a MySQL Function to ouput a query that has values from 1 to a given number?,,/questions/41206015/how-do-i-create-a-mysql-function-to-ouput-a-query-that-has-values-from-1-to-a-gi,mysql
+837,How to counting occurrences of specific words in individual sentences in an array,,/questions/41206010/how-to-counting-occurrences-of-specific-words-in-individual-sentences-in-an-arra,java
+838,"Get errors in vendor.js in production mode, React + webpack",,/questions/41206475/get-errors-in-vendor-js-in-production-mode-react-webpack,javascript
+839,DELPHI CALCULATED FIELDS,,/questions/41206472/delphi-calculated-fields,delphi
+840,Explanation for the output of the code,,/questions/41206470/explanation-for-the-output-of-the-code,c
+841,Shopify - Taxline calculation,,/questions/41206469/shopify-taxline-calculation,shopify
+842,Unnecessary characters are included in regular expression url conversion,,/questions/41206462/unnecessary-characters-are-included-in-regular-expression-url-conversion,ruby
+843,Create a custom way to update Hibernate Database,,/questions/41206215/create-a-custom-way-to-update-hibernate-database,java
+844,Laravel 5.3 $errors not appearing in Blade,,/questions/41207543/laravel-5-3-errors-not-appearing-in-blade,php
+845,socket closed exception occurs in an infinite loop,,/questions/41207542/socket-closed-exception-occurs-in-an-infinite-loop,java
+846,How to maintain users sessions in DropWizard 1.0.x,,/questions/41207540/how-to-maintain-users-sessions-in-dropwizard-1-0-x,session
+847,android WIFI_DIRECT screen share,,/questions/41207536/android-wifi-direct-screen-share,android
+848,OnDisappearing and OnAppearing overrides cannot be treated as guaranteed indications of page navigation? Xamarin.Forms,,/questions/41207393/ondisappearing-and-onappearing-overrides-cannot-be-treated-as-guaranteed-indicat,c#
+849,How to import CSV file to MongoDB on Windows?,,/questions/41206008/how-to-import-csv-file-to-mongodb-on-windows,mongodb
+850,Apply ripple effect on click of a relative layout which already has a background XML,,/questions/41206007/apply-ripple-effect-on-click-of-a-relative-layout-which-already-has-a-background,android
+851,Improving run time with Python data structure,,/questions/41206005/improving-run-time-with-python-data-structure,python
+852,can local storage store the whole page,,/questions/41206001/can-local-storage-store-the-whole-page,javascript
+853,how can I make a jar file in opencv project elclipse?,,/questions/41205999/how-can-i-make-a-jar-file-in-opencv-project-elclipse,java
+854,How to read and pass two values inside an anonymous object,,/questions/41206461/how-to-read-and-pass-two-values-inside-an-anonymous-object,c#
+855,Android - Have a issue by ssl socket in android?,,/questions/41206460/android-have-a-issue-by-ssl-socket-in-android,java
+856,AngularJS application with OAuth2 implicit or authorization code flow,,/questions/41207535/angularjs-application-with-oauth2-implicit-or-authorization-code-flow,java
+857,Laravel 5: Sending email with attached .pdf file generated from dynamic page,,/questions/41207534/laravel-5-sending-email-with-attached-pdf-file-generated-from-dynamic-page,laravel
+858,AWS Beanstalk integration with codecommit,,/questions/41207532/aws-beanstalk-integration-with-codecommit,amazon-elastic-beanstalk
+859,max-height div and in div and paragraph in div,,/questions/41207531/max-height-div-and-in-div-and-paragraph-in-div,javascript
+860,How to use z-index(stacking context) in multiple dimensions,,/questions/41207530/how-to-use-z-indexstacking-context-in-multiple-dimensions,css
+861,Android CoordinatorLayout+Header+TabLayout is not smooth when scrolling,,/questions/41207392/android-coordinatorlayoutheadertablayout-is-not-smooth-when-scrolling,android
+862,Automap multiple databases with Flask-SQLAlchemy,,/questions/41205998/automap-multiple-databases-with-flask-sqlalchemy,sqlalchemy
+863,how to fixed sending message with gsm modem in c#?,,/questions/41206456/how-to-fixed-sending-message-with-gsm-modem-in-c,c#
+864,Replace the field value in word document using Openxml,,/questions/41206454/replace-the-field-value-in-word-document-using-openxml,c#
+865,Hibernate fetching parent/child object as a row instead of parent with collection obj,,/questions/41206451/hibernate-fetching-parent-child-object-as-a-row-instead-of-parent-with-collectio,java
+866,How to take pictures while recording?,,/questions/41206449/how-to-take-pictures-while-recording,android
+867,Do I need to encode vertical bar in url,,/questions/41207528/do-i-need-to-encode-vertical-bar-in-url,url
+868,Using webpack with phonegap when debugging,,/questions/41207525/using-webpack-with-phonegap-when-debugging,javascript
+869,Two most recurring words in a string without using any API [on hold],,/questions/41207391/two-most-recurring-words-in-a-string-without-using-any-api,java
+870,python requests on ipv6 only server does not seem to work,,/questions/41207390/python-requests-on-ipv6-only-server-does-not-seem-to-work,python
+871,Object 'iCrypt' can be disposed more than once,,/questions/41207389/object-icrypt-can-be-disposed-more-than-once,c#
+872,JS slide show with back and forward arrows,,/questions/41207387/js-slide-show-with-back-and-forward-arrows,javascript
+873,unable to add select element in html table using jquery,,/questions/41206448/unable-to-add-select-element-in-html-table-using-jquery,javascript
+874,prevent Visual Studio from moving my breakpoint when run “optimization=Enable”,,/questions/41206447/prevent-visual-studio-from-moving-my-breakpoint-when-run-optimization-enable,c++
+875,Convert ASCII (txt) to SQL?,,/questions/41207386/convert-ascii-txt-to-sql,sql
+876,Passing on costs to tenants,,/questions/41207384/passing-on-costs-to-tenants,jelastic
+877,Hydra could not create SSL session in Kali Linux,,/questions/41207381/hydra-could-not-create-ssl-session-in-kali-linux,ssl
+878,Count no of child nodes for every node,,/questions/41207380/count-no-of-child-nodes-for-every-node,data-structures
+879,Managing PDF in VB.NET,,/questions/41207379/managing-pdf-in-vb-net,pdf
+880,How to count coloured row of datagridview in vb.net,,/questions/41207378/how-to-count-coloured-row-of-datagridview-in-vb-net,vb.net
+881,I need a realtime intraday chart where x axis is pre defined interval of 30 minutes,,/questions/41207375/i-need-a-realtime-intraday-chart-where-x-axis-is-pre-defined-interval-of-30-minu,highcharts
+882,Parametric bootstrapping in R for beginners,,/questions/41207373/parametric-bootstrapping-in-r-for-beginners,r
+883,nginx - serve content from inside a zip (jar) archive,,/questions/41207372/nginx-serve-content-from-inside-a-zip-jar-archive,nginx
+884,c# all list gets updated instead of just one element,,/questions/41207371/c-sharp-all-list-gets-updated-instead-of-just-one-element,c#
+885,How to chain folders like a java packages?,,/questions/41207368/how-to-chain-folders-like-a-java-packages,intellij-idea
+886,ActiveMQ 5.14 performance testing using jmeter on Cloud - EC2,,/questions/41207365/activemq-5-14-performance-testing-using-jmeter-on-cloud-ec2,amazon-web-services
+887,how to change the default vgg model of slim in tensorflow but also using the pre-trained weights,,/questions/41207363/how-to-change-the-default-vgg-model-of-slim-in-tensorflow-but-also-using-the-pre,tensorflow
+888,imread not working for online jpg files,,/questions/41207357/imread-not-working-for-online-jpg-files,python
+889,Highlight texts using JavaScript or jQuery,,/questions/41207355/highlight-texts-using-javascript-or-jquery,javascript
+890,"Is there a tool like JConsole or VisualVM that can show me “Where does class, object, reference variable get stored in java”",,/questions/41207353/is-there-a-tool-like-jconsole-or-visualvm-that-can-show-me-where-does-class-ob,java
+891,Activities showing up blank when running app,,/questions/41207351/activities-showing-up-blank-when-running-app,java
+892,Laravel - Store selected data in session,,/questions/41207350/laravel-store-selected-data-in-session,php
+893,Vanilla Javascript JSON Issue,,/questions/41207348/vanilla-javascript-json-issue,javascript
+894,Javascript dynamically load html into another html file,,/questions/41207345/javascript-dynamically-load-html-into-another-html-file,javascript
+895,"Match a value within range, copy and insert data into other sheet",,/questions/41207341/match-a-value-within-range-copy-and-insert-data-into-other-sheet,vba
+896,how to increase mesh throughput with batman-adv protocol on openwrt?,,/questions/41207339/how-to-increase-mesh-throughput-with-batman-adv-protocol-on-openwrt,mesh
+897,No resource found that matches the given names,,/questions/41207338/no-resource-found-that-matches-the-given-names,c#
+898,How to define array of numbers in google spreadsheets,,/questions/41207336/how-to-define-array-of-numbers-in-google-spreadsheets,arrays
+899,How do you Edit and Delete HTML table rows in Codeigniter Using Modals?,,/questions/41207335/how-do-you-edit-and-delete-html-table-rows-in-codeigniter-using-modals,php
+900,How to choose and show up figure by using listdlg?,,/questions/41207524/how-to-choose-and-show-up-figure-by-using-listdlg,matlab
+901,llvm createCall Calling a function with a bad signature,,/questions/41207523/llvm-createcall-calling-a-function-with-a-bad-signature,llvm
+902,Docker - Override or remove ENTRYPOINT from a base image,,/questions/41207522/docker-override-or-remove-entrypoint-from-a-base-image,node.js
+903,Calculate the minimum value of a database in python with the min sql querry,,/questions/41207520/calculate-the-minimum-value-of-a-database-in-python-with-the-min-sql-querry,python
+904,Webpack config output file giving 404,,/questions/41207519/webpack-config-output-file-giving-404,reactjs
+905,"php - differents variables with string, one array",,/questions/41207512/php-differents-variables-with-string-one-array,php
+906,Ionic - app.run called multiple times,,/questions/41207509/ionic-app-run-called-multiple-times,angularjs
+907,MVC CORE web application Angularjs http$ not returning data to api call,,/questions/41207508/mvc-core-web-application-angularjs-http-not-returning-data-to-api-call,angularjs
+908,resize the uploaded picture with php,,/questions/41207506/resize-the-uploaded-picture-with-php,php
+909,Video Streaming Python 3 adaptation failling - need help to adapt few lines,,/questions/41207500/video-streaming-python-3-adaptation-failling-need-help-to-adapt-few-lines,python
+910,Parse multiple files with javascript: the same file in for-loop,,/questions/41207499/parse-multiple-files-with-javascript-the-same-file-in-for-loop,javascript
+911,How do i add a custom function in Bookshelf collection functions chain,,/questions/41207498/how-do-i-add-a-custom-function-in-bookshelf-collection-functions-chain,javascript
+912,color single lines of ASCII characters with batch CMD,,/questions/41207496/color-single-lines-of-ascii-characters-with-batch-cmd,batch-file
+913,"Android Fragments: The fragment is not getting displayed. No warnings, No Errors",,/questions/41207495/android-fragments-the-fragment-is-not-getting-displayed-no-warnings-no-errors,android
+914,C# - Parse the Chunk Offset Atom from an MP4,,/questions/41207493/c-sharp-parse-the-chunk-offset-atom-from-an-mp4,c#
+915,Redirect to grafana from inside of Laravel Controller using AuthProxy,,/questions/41207492/redirect-to-grafana-from-inside-of-laravel-controller-using-authproxy,php
+916,How to set new values to whole observable array,,/questions/41207491/how-to-set-new-values-to-whole-observable-array,javascript
+917,How to retrieve Google + Circle contact in Android,,/questions/41207490/how-to-retrieve-google-circle-contact-in-android,android
+918,How do I obtain the sources for a specific backported Debian kernel version,,/questions/41207489/how-do-i-obtain-the-sources-for-a-specific-backported-debian-kernel-version,linux
+919,Error: Uncaught (in promise) TypeError: Cannot create property … on string,,/questions/41207488/error-uncaught-in-promise-typeerror-cannot-create-property-on-string,javascript
+920,Unity socket connection failed,,/questions/41207487/unity-socket-connection-failed,c#
+921,Pearson Correlation between two Matrices [duplicate],,/questions/41207486/pearson-correlation-between-two-matrices,python-2.7
+922,Combobox QItemDelegate: two issues,,/questions/41207485/combobox-qitemdelegate-two-issues,qt
+923,log file is created but not getting updated,,/questions/41207483/log-file-is-created-but-not-getting-updated,apache
+924,"How to make that all works together.Intent, onClickListener, Several classes, Show another activity",,/questions/41207482/how-to-make-that-all-works-together-intent-onclicklistener-several-classes-sh,java
+925,Cygwin: Compile cpp file with asm tag,,/questions/41207479/cygwin-compile-cpp-file-with-asm-tag,c++
+926,SQL Server Bulk Insert fails when it is in a stored procedure,,/questions/41207478/sql-server-bulk-insert-fails-when-it-is-in-a-stored-procedure,sql-server
+927,Access data from variable having one row in zf2,,/questions/41207474/access-data-from-variable-having-one-row-in-zf2,zend-framework2
+928,how can I plot a large data with bigger size of values with ggtree,,/questions/41207473/how-can-i-plot-a-large-data-with-bigger-size-of-values-with-ggtree,r
+929,Speed difference Android SDK on HDD or SSD,,/questions/41207472/speed-difference-android-sdk-on-hdd-or-ssd,java
+930,Using a csv File in Python to Dictate Columns,,/questions/41207471/using-a-csv-file-in-python-to-dictate-columns,python
+931,Scrapy : how to bypass the asynchronous behaviour?,,/questions/41207468/scrapy-how-to-bypass-the-asynchronous-behaviour,python
+932,System.Runtime PresentationCore,,/questions/41207467/system-runtime-presentationcore,c#
+933,How to convert Laravel views to static HTML and serve them from cache?,,/questions/41207461/how-to-convert-laravel-views-to-static-html-and-serve-them-from-cache,php
+934,Python string split by template,,/questions/41207459/python-string-split-by-template,python
+935,Why is the background of my layout white?,,/questions/41207458/why-is-the-background-of-my-layout-white,android
+936,How to find if the row in jasper is first row?,,/questions/41207456/how-to-find-if-the-row-in-jasper-is-first-row,jasper-reports
+937,B+tree for data in C,,/questions/41207455/btree-for-data-in-c,c
+938,Simple application using SDN via bolt connection on local app - How to do?,,/questions/41207454/simple-application-using-sdn-via-bolt-connection-on-local-app-how-to-do,java
+939,Javascript class pattern to satify JSHhint (on cloud9)?,,/questions/41207453/javascript-class-pattern-to-satify-jshhint-on-cloud9,javascript
+940,How to run flask app with ansible,,/questions/41207452/how-to-run-flask-app-with-ansible,flask
+941,JSON-LD structured data: how to reference nodes inside other nodes?,,/questions/41207449/json-ld-structured-data-how-to-reference-nodes-inside-other-nodes,reference
+942,Simple HTTP Post Requests with ASP.NET MVC,,/questions/41207447/simple-http-post-requests-with-asp-net-mvc,c#
+943,Select xml node by xpath with attribute value containing apostroph,,/questions/41207446/select-xml-node-by-xpath-with-attribute-value-containing-apostroph,python
+944,C# Thread is not calling the method,,/questions/41207444/c-sharp-thread-is-not-calling-the-method,c#
+945,Custom sorting string with numbers in excel,,/questions/41207443/custom-sorting-string-with-numbers-in-excel,excel
+946,How to create an Android library plugin system that updates parent package's app permissions?,,/questions/41207440/how-to-create-an-android-library-plugin-system-that-updates-parent-packages-app,java
+947,Sort result of query based on array,,/questions/41207439/sort-result-of-query-based-on-array,php
+948,PhysicsJs: How to implement coin-collection behaviour,,/questions/41207437/physicsjs-how-to-implement-coin-collection-behaviour,pixi.js
+949,Export 3d solids to unity,,/questions/41207434/export-3d-solids-to-unity,unity3d
